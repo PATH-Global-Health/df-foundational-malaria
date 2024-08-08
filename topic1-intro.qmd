@@ -1,0 +1,13 @@
+# Introduction to Malaria
+
+This topic serves as an entry point into the module, providing a brief understanding of malaria, its history, and its global impact. Topics brought to light here will be discussed in further detail during this module. 
+
+## Learning Objectives
+
+-   Describe the historical context of malaria.
+
+-   Understand the global and regional burden of malaria.
+
+-   Identify key populations at risk and the geographical distribution of malaria.
+
+-   Appreciate the economic, social, and health impacts of malaria on affected communities.

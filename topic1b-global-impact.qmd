@@ -1,0 +1,23 @@
+# Overview of Malaria's Global Impact
+
+## Current Statistics
+
+Malaria remains a major public health challenge, particularly in tropical and subtropical regions. According to the World Health Organization (WHO), there were an estimated 249 million malaria cases worldwide in 2022, with approximately 608,000 deaths. Sub-Saharan Africa bears the brunt of the malaria burden, accounting for about 94% of all malaria cases and 95% of malaria deaths. Children under five years old are the most vulnerable, representing around 80% of all malaria deaths in this region.[^topic1b-global-impact-1]
+
+[^topic1b-global-impact-1]: WHO World Malaria Report 2023 https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023
+
+## Economic Burden
+
+The economic impact of malaria is thought to be profound, but hard to quantify. Malaria sickness affects both individuals and national economies. Households incur costs related to healthcare, lost workdays, and decreased productivity due to illness or death. At the national level, malaria can hinder economic growth by affecting workforce productivity and increasing healthcare expenditures. In highly endemic areas, malaria can slow economic development and perpetuate cycles of poverty.
+
+For example, it was estimated that malaria costs African countries over \$12 billion annually in lost productivity, and slows economic growth in the region by 1.3% a year.[^topic1b-global-impact-2] The disease affects school attendance and performance, limiting educational opportunities and future economic prospects for children in affected regions.
+
+[^topic1b-global-impact-2]: Bartram J, Lewis K, Lenton R, Wright A. Focusing on improved water and sanitation for health. The Lancet. 2005 Feb 26;365(9461):810-2. https://doi.org/10.1016/S0140-6736(05)17991-4
+
+## Social and Health Impacts
+
+Malaria has far-reaching social and health consequences. It disproportionately affects the most vulnerable populations, including pregnant women and young children. Pregnant women with malaria face increased risks of anemia, miscarriage, stillbirth, and low birth weight, which can lead to infant mortality and long-term developmental issues for surviving children.
+
+The disease also strains healthcare systems, leading to overcrowded facilities and limited resources for other health conditions. In regions with high malaria transmission, malaria can have psychological impacts on communities, contributing to anxiety and stress, mild cognitive impairement and other neurological impacts.[^topic1b-global-impact-3]
+
+[^topic1b-global-impact-3]: Nandish P, BM S, N SN, Shankar G, Tripathi PK, Kashyap H, Jain A, Anvikar A, Chalageri VH. Exploring the hidden mental health consequences of malaria beyond the fever. Frontiers in Human Neuroscience. 2024 Jul 18;18:1432441. https://doi.org/10.3389/fnhum.2024.1432441
