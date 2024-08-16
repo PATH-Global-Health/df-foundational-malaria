@@ -9,7 +9,6 @@ Interactive maps, such as those provided by the [Malaria Atlas Project](https://
 ```{=html}
 <iframe src="https://data.malariaatlas.org/trends?year=2022&metricGroup=Malaria&geographicLevel=pixel&metricSubcategory=Pf&metricType=rate&metricName=incidence" style="border:none; width:100%; height:600px;"></iframe>
 ```
-
 ## High-Risk Populations
 
 Certain populations are at higher risk of contracting malaria. These include:
@@ -22,9 +21,8 @@ Certain populations are at higher risk of contracting malaria. These include:
 
 -   **People living in poverty**: Limited access to healthcare, preventive measures, and information increases the vulnerability of impoverished communities to malaria.
 
-## Seasonality and Environmental Factors 
+## Seasonality and Environmental Factors
 
 Malaria transmission varies seasonally, with peaks often corresponding to rainy seasons when mosquito breeding conditions are optimal. Environmental factors such as standing water, vegetation, and climate changes can influence mosquito populations and malaria transmission dynamics.
 
 For instance, in Sub-Saharan Africa, malaria transmission intensifies during and after the rainy season, while in some parts of Asia and Latin America, transmission can occur year-round but peaks during specific months.
-
