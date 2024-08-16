@@ -9,7 +9,7 @@ book:
     chapters:
     - topic1a-history-malaria.qmd
     - topic1b-global-impact.qmd
-    - topic1c-endimicity.qmd
+    - topic1c-endemicity.qmd
 
 
 bibliography: references.bib
