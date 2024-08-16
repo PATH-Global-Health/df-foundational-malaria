@@ -1,6 +1,6 @@
 # Introduction to Malaria
 
-This topic serves as an entry point into the module, providing a brief understanding of malaria, its history, and its global impact. Topics brought to light here will be discussed in further detail during this module. 
+This topic serves as an entry point into the module, providing a brief understanding of malaria, its history, and its global impact. Topics brought to light here will be discussed in further detail during this module.
 
 ## Learning Objectives
 
