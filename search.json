@@ -1,0 +1,183 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Foundational Malaria Knowledge",
+    "section": "",
+    "text": "Introduction\nWelcome to the “Foundational Malaria Knowledge” module of the PATH Malaria Data Fellowship Program. This module is designed to provide you with a comprehensive understanding of malaria, including its biology, epidemiology, transmission, diagnosis, treatment, and prevention strategies. You will explore the global impact of malaria, learn about the critical role of data in controlling the disease, and discover the latest advancements and challenges in the fight against malaria. By the end of this module, you will have the foundational knowledge necessary to contribute effectively to malaria control and eradication efforts.\nThese lessons contain materials developed by the MACEPA Data and Analytics teams, as well as external resources (links/citations have been included). Any data used in the tutorial will be public data and may have been adjusted from its source in order to be shared.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Foundational Malaria Knowledge",
+    "section": "Schedule",
+    "text": "Schedule\nAs a reminder, this module is self-directed learning through a set of chapters in this book and associated short quizzes.\nWe will meet as a team on [INSERT DATE] to discuss module content, check through quizzes, and answer any questions.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#module-objectives",
+    "href": "index.html#module-objectives",
+    "title": "Foundational Malaria Knowledge",
+    "section": "Module Objectives",
+    "text": "Module Objectives\n\nUnderstand the basic biology of malaria and the malaria parasite.\nLearn about the epidemiology and global impact of malaria.\nGain insights into malaria transmission, life cycle, and vectors.\nExplore malaria diagnosis, treatment, and prevention strategies.\nRecognize the importance of surveillance, data collection, and analysis in malaria control efforts.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#module-topics",
+    "href": "index.html#module-topics",
+    "title": "Foundational Malaria Knowledge",
+    "section": "Module Topics",
+    "text": "Module Topics\n\nIntroduction to Malaria\nMalaria Parasite Biology\nEpidemiology of Malaria\nMalaria Transmission\nDiagnosis and Treatment\nPrevention and Control\nSurveillance and Data Analysis\nCurrent Challenges and Future Directions",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "topic1a-history-malaria.html",
+    "href": "topic1a-history-malaria.html",
+    "title": "1  Brief History of Malaria",
+    "section": "",
+    "text": "1.1 Early References and Discoveries\nMalaria is an ancient disease, with its presence documented as far back as 2700 BCE in Chinese medical writings. The term “malaria” itself originates from the Italian words “mala” “aria,” meaning “bad air,” a reflection of the ancient belief that the disease was caused by foul air emanating from marshes and swamps.\nThroughout history, malaria has been a significant burden on many civilizations. Ancient Greeks, including Hippocrates, noted the periodic fevers associated with the disease. Roman scholars also wrote extensively about malaria, describing its symptoms and the environmental conditions conducive to its spread.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Brief History of Malaria</span>"
+    ]
+  },
+  {
+    "objectID": "topic1a-history-malaria.html#discovery-of-the-parasite",
+    "href": "topic1a-history-malaria.html#discovery-of-the-parasite",
+    "title": "1  Brief History of Malaria",
+    "section": "1.2 Discovery of the parasite",
+    "text": "1.2 Discovery of the parasite\nThe turning point in understanding malaria came in 1880 when Charles Louis Alphonse Laveran, a French army surgeon, discovered the malaria parasite, Plasmodium, while working in Algeria. This groundbreaking discovery earned Laveran the Nobel Prize in Physiology or Medicine in 19071.\nLaveran’s work laid the foundation for further research, leading to the identification of different Plasmodium species responsible for malaria in humans: P. falciparum, P. vivax, P. malariae, P. ovale, and later, P. knowlesi.\nRonald Ross in 1898 showed that malaria was transmitted from infected mosquitos when they bite humans, this discovery changed the perception of the disease from the previous thinking that it was spread from the foul air of decaying organic matter.\nThese two findings that describe the biological basis of the disease and its transmission were made just under 150 years ago. And that time malaria was present in almost every country across the Globe (Figure 1.1). Researchers estimate that up to around 1900 human populations were at risk from malaria across about half of the world’s land surface (53%)2.\n\n\n\n\n\n\nFigure 1.1: Source: Our World in Data https://ourworldindata.org/malaria-past-prevalence",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Brief History of Malaria</span>"
+    ]
+  },
+  {
+    "objectID": "topic1a-history-malaria.html#malaria-and-human-populations",
+    "href": "topic1a-history-malaria.html#malaria-and-human-populations",
+    "title": "1  Brief History of Malaria",
+    "section": "1.3 Malaria and human populations",
+    "text": "1.3 Malaria and human populations\nSince 1900 the malaria map has shrunk, confined to the tropics now, with much of Europe, North America, East Asia, Australia, parts of the Caribbean, South America and Africa having eliminated the disease.\nThe discovery of quinine in the bark of the cinchona tree in the 17th century became the first treatment against malaria and eventually led to the advent of the anti-malarial drug Chloroquine during World War II. In the 20th century, the advent of DDT spraying and the establishment of the World Health Organization’s (WHO) Global Malaria Eradication Program in 1955 marked significant milestones, although the program was discontinued in 1969 due to various challenges and financial and political will for the cause diminishing. The initial aim of eradication was replaced with longer-term control strategies and improvements in disease management.\nThe late 20th and early 21st centuries have seen significant advances in malaria research and control. The development of artemisinin-based combination therapies (ACTs), the introduction of insecticide-treated nets (ITNs) and indoor residual spraying (IRS) have drastically reduced malaria transmission in many regions. In recent years, the focus has shifted towards innovative strategies, including the development of malaria vaccines. The RTS,S/AS01 vaccine, endorsed by the WHO in 2021, and the R21 vaccine endorsed this past year.\nDespite these advances malaria still remains a significant burden on the worlds population and we shall explore this more in the coming topics.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Brief History of Malaria</span>"
+    ]
+  },
+  {
+    "objectID": "topic1a-history-malaria.html#footnotes",
+    "href": "topic1a-history-malaria.html#footnotes",
+    "title": "1  Brief History of Malaria",
+    "section": "",
+    "text": "Alphonse Laveran – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Aug 2024. https://www.nobelprize.org/prizes/medicine/1907/laveran/facts/↩︎\nHay SI, Guerra CA, Tatem AJ, Noor AM, Snow RW. The global distribution and population at risk of malaria: past, present, and future. Lancet Infect Dis. 2004 Jun;4(6):327-36. doi: 10.1016/S1473-3099(04)01043-6↩︎",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Brief History of Malaria</span>"
+    ]
+  },
+  {
+    "objectID": "topic1b-global-impact.html",
+    "href": "topic1b-global-impact.html",
+    "title": "2  Overview of Malaria’s Global Impact",
+    "section": "",
+    "text": "2.1 Current Statistics\nMalaria remains a major public health challenge, particularly in tropical and subtropical regions. According to the World Health Organization (WHO), there were an estimated 249 million malaria cases worldwide in 2022, with approximately 608,000 deaths. Sub-Saharan Africa bears the brunt of the malaria burden, accounting for about 94% of all malaria cases and 95% of malaria deaths. Children under five years old are the most vulnerable, representing around 80% of all malaria deaths in this region.1",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview of Malaria's Global Impact</span>"
+    ]
+  },
+  {
+    "objectID": "topic1b-global-impact.html#economic-burden",
+    "href": "topic1b-global-impact.html#economic-burden",
+    "title": "2  Overview of Malaria’s Global Impact",
+    "section": "2.2 Economic Burden",
+    "text": "2.2 Economic Burden\nThe economic impact of malaria is thought to be profound, but hard to quantify. Malaria sickness affects both individuals and national economies. Households incur costs related to healthcare, lost workdays, and decreased productivity due to illness or death. At the national level, malaria can hinder economic growth by affecting workforce productivity and increasing healthcare expenditures. In highly endemic areas, malaria can slow economic development and perpetuate cycles of poverty.\nFor example, it was estimated that malaria costs African countries over $12 billion annually in lost productivity, and slows economic growth in the region by 1.3% a year.2 The disease affects school attendance and performance, limiting educational opportunities and future economic prospects for children in affected regions.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview of Malaria's Global Impact</span>"
+    ]
+  },
+  {
+    "objectID": "topic1b-global-impact.html#social-and-health-impacts",
+    "href": "topic1b-global-impact.html#social-and-health-impacts",
+    "title": "2  Overview of Malaria’s Global Impact",
+    "section": "2.3 Social and Health Impacts",
+    "text": "2.3 Social and Health Impacts\nMalaria has far-reaching social and health consequences. It disproportionately affects the most vulnerable populations, including pregnant women and young children. Pregnant women with malaria face increased risks of anemia, miscarriage, stillbirth, and low birth weight, which can lead to infant mortality and long-term developmental issues for surviving children.\nThe disease also strains healthcare systems, leading to overcrowded facilities and limited resources for other health conditions. In regions with high malaria transmission, malaria can have psychological impacts on communities, contributing to anxiety and stress, mild cognitive impairement and other neurological impacts.3",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview of Malaria's Global Impact</span>"
+    ]
+  },
+  {
+    "objectID": "topic1b-global-impact.html#footnotes",
+    "href": "topic1b-global-impact.html#footnotes",
+    "title": "2  Overview of Malaria’s Global Impact",
+    "section": "",
+    "text": "WHO World Malaria Report 2023 https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023↩︎\nBartram J, Lewis K, Lenton R, Wright A. Focusing on improved water and sanitation for health. The Lancet. 2005 Feb 26;365(9461):810-2. https://doi.org/10.1016/S0140-6736(05)17991-4↩︎\nNandish P, BM S, N SN, Shankar G, Tripathi PK, Kashyap H, Jain A, Anvikar A, Chalageri VH. Exploring the hidden mental health consequences of malaria beyond the fever. Frontiers in Human Neuroscience. 2024 Jul 18;18:1432441. https://doi.org/10.3389/fnhum.2024.1432441↩︎",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Overview of Malaria's Global Impact</span>"
+    ]
+  },
+  {
+    "objectID": "topic1c-endemicity.html",
+    "href": "topic1c-endemicity.html",
+    "title": "3  Malaria Endemic Regions",
+    "section": "",
+    "text": "3.1 Geographical distribution\nMalaria remains endemic in over 85 countries and territories, with the highest transmission occurring in Sub-Saharan Africa, Southeast Asia, the Eastern Mediterranean, and parts of the Western Pacific and the Americas. In these regions, climatic conditions such as temperature, humidity, and rainfall create favorable environments for the Anopheles mosquitoes that transmit malaria.\nInteractive maps, such as those provided by the Malaria Atlas Project, can visually depict the distribution of malaria cases and highlight regions with the highest burden.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Malaria Endemic Regions</span>"
+    ]
+  },
+  {
+    "objectID": "topic1c-endemicity.html#high-risk-populations",
+    "href": "topic1c-endemicity.html#high-risk-populations",
+    "title": "3  Malaria Endemic Regions",
+    "section": "3.2 High-Risk Populations",
+    "text": "3.2 High-Risk Populations\nCertain populations are at higher risk of contracting malaria. These include:\n\nChildren under five years old: Due to their developing immune systems, young children are particularly susceptible to severe malaria and death.\nPregnant women: Pregnancy reduces a woman’s immunity to malaria, increasing the risk of severe illness, maternal death, and adverse pregnancy outcomes.\nTravelers and migrants: Individuals traveling to or migrating from non-endemic to endemic areas may lack immunity, putting them at greater risk of severe malaria.\nPeople living in poverty: Limited access to healthcare, preventive measures, and information increases the vulnerability of impoverished communities to malaria.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Malaria Endemic Regions</span>"
+    ]
+  },
+  {
+    "objectID": "topic1c-endemicity.html#seasonality-and-environmental-factors",
+    "href": "topic1c-endemicity.html#seasonality-and-environmental-factors",
+    "title": "3  Malaria Endemic Regions",
+    "section": "3.3 Seasonality and Environmental Factors",
+    "text": "3.3 Seasonality and Environmental Factors\nMalaria transmission varies seasonally, with peaks often corresponding to rainy seasons when mosquito breeding conditions are optimal. Environmental factors such as standing water, vegetation, and climate changes can influence mosquito populations and malaria transmission dynamics.\nFor instance, in Sub-Saharan Africa, malaria transmission intensifies during and after the rainy season, while in some parts of Asia and Latin America, transmission can occur year-round but peaks during specific months.",
+    "crumbs": [
+      "Introduction to Malaria",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Malaria Endemic Regions</span>"
+    ]
+  },
+  {
+    "objectID": "topic1-intro.html",
+    "href": "topic1-intro.html",
+    "title": "Introduction to Malaria",
+    "section": "",
+    "text": "Learning Objectives",
+    "crumbs": [
+      "Introduction to Malaria"
+    ]
+  },
+  {
+    "objectID": "topic1-intro.html#learning-objectives",
+    "href": "topic1-intro.html#learning-objectives",
+    "title": "Introduction to Malaria",
+    "section": "",
+    "text": "Describe the historical context of malaria.\nUnderstand the global and regional burden of malaria.\nIdentify key populations at risk and the geographical distribution of malaria.\nAppreciate the economic, social, and health impacts of malaria on affected communities.",
+    "crumbs": [
+      "Introduction to Malaria"
+    ]
+  }
+]
