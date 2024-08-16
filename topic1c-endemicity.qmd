@@ -7,7 +7,7 @@ Malaria remains endemic in over 85 countries and territories, with the highest t
 Interactive maps, such as those provided by the [Malaria Atlas Project](https://malariaatlas.org/), can visually depict the distribution of malaria cases and highlight regions with the highest burden.
 
 ```{=html}
-<iframe src="https://data.malariaatlas.org/trends?year=2022&metricGroup=Malaria&geographicLevel=pixel&metricSubcategory=Pf&metricType=rate&metricName=incidence" style="border:none; width:100%; height:600px;"></iframe>
+<iframe src="https://malariaatlas.org/" style="border:none; width:100%; height:600px;"></iframe>
 ```
 ## High-Risk Populations
 
