@@ -8,21 +8,21 @@ Throughout history, malaria has been a significant burden on many civilizations.
 
 ## Discovery of the parasite
 
-The turning point in understanding malaria came in 1880 when Charles Louis Alphonse Laveran, a French army surgeon, discovered the malaria parasite, Plasmodium, while working in Algeria. This groundbreaking discovery earned Laveran the Nobel Prize in Physiology or Medicine in 1907[^topic-one-history-malaria-1].
+The turning point in understanding malaria came in 1880 when Charles Louis Alphonse Laveran, a French army surgeon, discovered the malaria parasite, Plasmodium, while working in Algeria. This groundbreaking discovery earned Laveran the Nobel Prize in Physiology or Medicine in 1907[^topic1a-history-malaria-1].
 
-[^topic-one-history-malaria-1]: Alphonse Laveran -- Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Aug 2024. <https://www.nobelprize.org/prizes/medicine/1907/laveran/facts/>
+[^topic1a-history-malaria-1]: Alphonse Laveran -- Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Aug 2024. <https://www.nobelprize.org/prizes/medicine/1907/laveran/facts/>
 
 Laveran's work laid the foundation for further research, leading to the identification of different Plasmodium species responsible for malaria in humans: *P. falciparum*, *P. vivax*, *P. malariae*, *P. ovale*, and later, *P. knowlesi*.
 
 Ronald Ross in 1898 showed that malaria was transmitted from infected mosquitos when they bite humans, this discovery changed the perception of the disease from the previous thinking that it was spread from the foul air of decaying organic matter.
 
-These two findings that describe the biological basis of the disease and its transmission were made just under 150 years ago. And that time malaria was present in almost every country across the Globe (@fig-1). Researchers estimate that up to around 1900 human populations were at risk from malaria across about half of the world's land surface (53%)[^topic-one-history-malaria-2].
+These two findings that describe the biological basis of the disease and its transmission were made just under 150 years ago. And at that time malaria was present in almost every country across the Globe (@fig-1). Researchers estimate that up to around 1900 human populations were at risk from malaria across about half of the world's land surface (53%)[^topic1a-history-malaria-2].
 
-[^topic-one-history-malaria-2]: Hay SI, Guerra CA, Tatem AJ, Noor AM, Snow RW. The global distribution and population at risk of malaria: past, present, and future. Lancet Infect Dis. 2004 Jun;4(6):327-36. doi: 10.1016/S1473-3099(04)01043-6
+[^topic1a-history-malaria-2]: Hay SI, Guerra CA, Tatem AJ, Noor AM, Snow RW. The global distribution and population at risk of malaria: past, present, and future. Lancet Infect Dis. 2004 Jun;4(6):327-36. doi: [10.1016/S1473-3099(04)01043-6](https://doi.org/10.1016/S1473-3099(04)01043-6)
 
-![Source: Our World in Data https://ourworldindata.org/malaria-past-prevalence](figures/Previous-prevalence-of-malaria-world-map_3105.png){#fig-1}
+![Source: Our World in Data <https://ourworldindata.org/malaria-past-prevalence>](figures/Previous-prevalence-of-malaria-world-map_3105.png){#fig-1}
 
-## Malaria and human populations 
+## Malaria and human populations
 
 Since 1900 the malaria map has shrunk, confined to the tropics now, with much of Europe, North America, East Asia, Australia, parts of the Caribbean, South America and Africa having eliminated the disease.
 

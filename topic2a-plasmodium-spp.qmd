@@ -1,0 +1,49 @@
+# Plasmodium species
+
+## Species 
+
+Malaria is caused by the protozoan parasite Plasmodium of which there are five species that infect humans: *Plasmodium falciparum*, *Plasmodium vivax*, *Plasmodium malariae*, *Plasmodium ovale*, and *Plasmodium knowlesi*. Each species has unique characteristics that influence the course and severity of the disease, as well as its geographical distribution.
+
+-   *Plasmodium falciparum* is the most deadly and widespread species, responsible for the majority of malaria-related deaths, particularly in Sub-Saharan Africa. It is known for causing severe malaria, including cerebral malaria, which can be fatal if not promptly treated.
+
+-   *Plasmodium vivax* is the most widespread species outside of Sub-Saharan Africa, particularly in Asia and Latin America. While generally less lethal than P. falciparum, P. vivax can cause severe disease and is notorious for its ability to remain dormant in the liver, leading to relapses.
+
+-   *Plasmodium malariae* is less common but can cause chronic infection, sometimes persisting in the blood for years if untreated. It is found in Africa, Asia, and the Americas.
+
+-   *Plasmodium ovale* is similar to P. vivax in its ability to cause relapses due to dormant liver stages. It is primarily found in West Africa but also occurs in Asia and the Pacific islands.
+
+-   *Plasmodium knowlesi* is primarily a parasite of macaque monkeys in Southeast Asia but can infect humans. P. knowlesi infections can progress rapidly and be severe[^topic2a-plasmodium-spp-1], making it an emerging concern in the region.
+
+[^topic2a-plasmodium-spp-1]: Singh B, Daneshvar C. Human infections and detection of Plasmodium knowlesi. Clin Microbiol Rev. 2013 Apr;26(2):165-84. doi: [10.1128/CMR.00079-12.](https://doi.org/10.1128/cmr.00079-12)
+
+## Geographic distribution
+
+Malaria generally occurs in areas where environmental conditions allow parasite multiplication in the vector. Malaria today is usually restricted to tropical and subtropical areas and altitudes below 1,500 m., 
+
+-   *P. falciparum* is predominantly found in Sub-Saharan Africa but also exists in Southeast Asia and South America.
+
+-   *P. vivax* has a wider global distribution, being prevalent in Asia, Latin America, and parts of Africa.
+
+-   *P. malariae* and *P. ovale* have more restricted distributions but are present in parts of Africa, Southeast Asia, and the Western Pacific.
+
+-   *P. knowlesi* is mainly found in Southeast Asia, particularly in Malaysia, where it is associated with forested areas inhabited by macaques.
+
+This present distribution could be affected by climatic changes and population movements. 
+
+## **Pathogenicity and Clinical Manifestations**
+
+The symptoms of uncomplicated malaria can be rather non-specific and the diagnosis can be missed if health providers are not alert to the possibility of this disease. Since untreated malaria can progress to severe forms that may be rapidly (\<24 hours) fatal rapid diagnosis and treatment is essential.
+
+The first symptoms of disease are usually non-specific and similar to many febrile illnesses. These initial symptoms of malaria occur around 7--14 days following an infectious bite, and patients present with a fever or flu-like illness including shaking, chills, headache, muscle ache and tiredness. Unlike other febrile illness however, malaria fevers are often characterised by their periodic presentation, approximately every two days coinciding with the erythrocyte rupture. At this stage of disease, with prompt treatment with an effective antimalarial, malaria is curable. However, if left untreated or if treatment seeking is delayed, severe malaria complications can occur which often lead to death especially in the case of P. falciparum.
+
+The severity of malaria symptoms varies by species:
+
+-   *P. falciparum* is associated with severe symptoms, including high fevers, anemia, and potentially fatal complications such as cerebral malaria acute renal failure, severe anemia, or acute respiratory distress syndrome.
+
+-   *P. vivax* often causes milder symptoms but can still lead to severe illness, especially in vulnerable populations. Its ability to relapse makes it a challenging species to control.
+
+-   *P. malariae* typically causes a less severe but chronic infection, which can result in nephrotic syndrome and other complications over time.
+
+-   *P. ovale* causes similar symptoms to *P. vivax,* with relapses occurring months or even years after the initial infection.
+
+-   *P. knowlesi* infections can be severe and rapidly progress, resembling *P. falciparum* in clinical presentation but requiring prompt diagnosis and treatment due to its rapid erythrocytic cycle.
