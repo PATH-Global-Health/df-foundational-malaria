@@ -13,7 +13,7 @@ book:
   - part: topic2-intro.qmd
     chapters: 
     - topic2a-plasmodium-spp.qmd
-    - topid2b-lifecycle.qmd
+    - topic2b-lifecycle.qmd
 
 bibliography: references.bib
 format:
