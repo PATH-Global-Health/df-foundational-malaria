@@ -1,0 +1,35 @@
+# Human Immune Response
+
+Morbidity due to P. falciparum infections can vary from mild clinical symptoms of febrile illness to severe and life-threatening disease due to vital organ dysfunction. Individuals living in malaria endemic areas, however, do acquire substantial protection against clinical and severe forms of malaria, but rarely, if ever, is sterile immunity achieved.[^topic2c-immunity-1] Generally, immunity against severe malaria develops rapidly, followed by immunity against clinical disease and finally, more slowly, the build-up of immune tolerance to blood-stage parasites (@fig-1).[^topic2c-immunity-2] While immunity to patent parasitaemia can develop by adulthood, subpatent infections that are detectable with advancements in molecular diagnostic techniques still occur. It is this immune tolerance that results in asymptomatic carrier infections among adult populations in malaria-endemic areas.[^topic2c-immunity-3][^topic2c-immunity-4]
+
+[^topic2c-immunity-1]: Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clin Microbiol Rev. 2009 Jan;22(1):13-36, <https://doi.org/10.1128%2FCMR.00025-08>
+
+[^topic2c-immunity-2]: Griffin Jamie T., Hollingsworth T. Déirdre, Reyburn Hugh, Drakeley Chris J., Riley Eleanor M. and Ghani Azra C. 2015 Gradual acquisition of immunity to severe malaria with increasing exposure. Proc. R. Soc. B.28220142657 <http://doi.org/10.1098/rspb.2014.2657>
+
+[^topic2c-immunity-3]: Bousema T, Okell L, Felger I, Drakeley C. Asymptomatic malaria infections: detectability, transmissibility and public health relevance. Nat Rev Microbiol. 2014 Dec;12(12):833-40. doi: [10.1038/nrmicro3364](https://doi.org/10.1038/nrmicro3364).
+
+[^topic2c-immunity-4]: Okell LC, Bousema T, Griffin JT, Ouédraogo AL, Ghani AC, Drakeley CJ. Factors determining the occurrence of submicroscopic malaria infections and their relevance for control. Nat Commun. 2012;3:1237. doi: [10.1038/ncomms2241](https://doi.org/10.1038/ncomms2241)
+
+The acquisition of immunity to malaria has been shown to be both age- and exposure-dependent leading to a high degree of variability in patterns of immunity across populations.[^topic2c-immunity-5][^topic2c-immunity-6][^topic2c-immunity-7][^topic2c-immunity-8][^topic2c-immunity-9] This progressive acquisition of immunity to malaria is why younger children are particularly vulnerable to episodes of severe malaria, once a period of protection provided from maternally derived antibodies wanes and before the acquisition of this effective immunity
+
+[^topic2c-immunity-5]: Griffin Jamie T., Hollingsworth T. Déirdre, Reyburn Hugh, Drakeley Chris J., Riley Eleanor M. and Ghani Azra C. 2015 Gradual acquisition of immunity to severe malaria with increasing exposure. Proc. R. Soc. B.28220142657 <http://doi.org/10.1098/rspb.2014.2657>
+
+[^topic2c-immunity-6]: Rodriguez-Barraquer I, Arinaitwe E, Jagannathan P, Kamya MR, Rosenthal PJ, Rek J, Dorsey G, Nankabirwa J, Staedke SG, Kilama M, Drakeley C, Ssewanyana I, Smith DL, Greenhouse B. Quantification of anti-parasite and anti-disease immunity to malaria as a function of age and exposure. Elife. 2018 Jul 25;7:e35832. doi: [10.7554/eLife.35832](https://doi.org/10.7554/elife.35832).
+
+[^topic2c-immunity-7]: Greenwood B, Marsh K, Snow R. Why do some African children develop severe malaria? Parasitol Today. 1991 Oct;7(10):277-81. doi: [10.1016/0169-4758(91)90096-7](https://doi.org/10.1016/0169-4758(91)90096-7)
+
+[^topic2c-immunity-8]: Baird JK. Host age as a determinant of naturally acquired immunity to Plasmodium falciparum. Parasitol Today. 1995 Mar;11(3):105-11. doi: [10.1016/0169-4758(95)80167-7](https://doi.org/10.1016/0169-4758(95)80167-7)
+
+[^topic2c-immunity-9]: Reyburn H, Mbatia R, Drakeley C, Bruce J, Carneiro I, Olomi R, Cox J, Nkya WM, Lemnge M, Greenwood BM, Riley EM. Association of transmission intensity and age with clinical manifestations and case fatality of severe Plasmodium falciparum malaria. JAMA. 2005 Mar 23;293(12):1461-70. doi: [10.1001/jama.293.12.1461](https://doi.org/10.1001/jama.293.12.1461).
+
+![Progression of Naturally Acquired Immunity to Malaria. The relationship between age and malaria severity in an area of moderate transmission inte nsity shows how with repeated exposure by early childhood, protection is first acquired against severe disease, then more slowly protection builds up against clinical disease and finally much more slowly develops against parasitaemia. In areas with higher transmission intensity the rate of acquisition of naturally acquired immunity can increase. Reproduced from Griffin et al 2015 doi: <https://doi.org/10.1098/rspb.2014.2657>.](figures/immunity.png){#fig-1}
+
+## Prof. Kevin Marsh - "Immunity to Malaria in Humans
+
+Below is a great lecture by Professor Kevin Marsh that describes how knowledge of immunity to malaria in humans has developed over the past thirty years and what impact this has for future research. This seminar was delivered at the University of Oxfords Centre for Tropical Medicine, Oxford, UK, 29th October 2013.
+
+Watch this for a great overview to a very complex topic!
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bJ6nS-I-HiM" title="Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```

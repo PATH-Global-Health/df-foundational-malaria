@@ -1,6 +1,6 @@
-# Malaria Parasite Biology
+# The Biology of Malaria
 
-This topic delves into the biology of the malaria parasite, providing a detailed understanding of the various Plasmodium species that cause malaria in humans. We will explore the complex life cycle of the parasite, its interaction with human and mosquito hosts, and the biological mechanisms that underlie malaria infection. This foundational knowledge is critical for understanding the disease's transmission, pathology, and the development of effective interventions.
+This topic delves into the biology of malaria, providing a detailed understanding of the various Plasmodium species that cause malaria in humans. We will explore the complex life cycle of the parasite, its interaction with human and mosquito hosts, and the biological mechanisms that underlie malaria infection. This foundational knowledge is critical for understanding the disease's transmission, pathology, and the development of effective interventions.
 
 ## Learning Objectives 
 
@@ -12,3 +12,5 @@ This topic delves into the biology of the malaria parasite, providing a detailed
 -   Explain the life cycle of the malaria parasite, highlighting the stages within the human and mosquito hosts.
 
 -   Understand the role of mosquito hosts in malaria transmission.
+
+-   Understand the development of naturally acquired immunity to malaria parasites.

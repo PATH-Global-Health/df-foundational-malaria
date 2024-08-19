@@ -43,3 +43,17 @@ A summary of some key terms and behviours in mosuqito feeding behaviours:
     -   **Exophagic** species feed outdoors, requiring different strategies such as outdoor spraying and environmental management.
 
 ## Breeding Environments
+
+-   **Natural Habitats**: *Anopheles* mosquitoes typically breed in clean, unpolluted water. Natural breeding sites include:
+
+    -   **Swamps and Marshes**: Often found in tropical and subtropical regions.
+
+    -   **Forest Pools and Streams**: Common in rural and forested areas.
+
+    -   **Rice Fields and Irrigation Channels**: These provide extensive breeding habitats in agricultural regions.
+
+-   **Man-Made Habitats**: Urbanization and human activities have created additional breeding sites:
+
+    -   **Water Containers**: In urban and peri-urban areas, *A. stephensi* and other species can breed in water storage containers, discarded tires, and other small water bodies.
+
+    -   **Construction Sites**: Pools of stagnant water at construction sites can serve as breeding grounds, especially in urban areas.
