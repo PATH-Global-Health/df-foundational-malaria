@@ -11,7 +11,7 @@ book:
     - topic1b-global-impact.qmd
     - topic1c-endemicity.qmd
   - part: topic2-intro.qmd
-  chapters: 
+    chapters: 
     - topic2a-plasmodium-spp.qmd
     - topid2b-lifecycle.qmd
 
