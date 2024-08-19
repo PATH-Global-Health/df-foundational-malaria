@@ -1,12 +1,45 @@
-# Parasite Lifecycle
+# Anopheles Mosquito Vector
 
-## Lifecycle overview
+Malaria is a mosquito-borne parasitic disease that infects humans through the bite of an Anopheline mosquito vector. Of the approximately 70 Anopheles species that are able to transmit malaria to humans, an estimated 30--40 are dominant vector species, and are therefore of relevance to public health. Anopheles species are found in varying geographic regions, and within regions distinct environments support different species, which affects malaria epidemiology and transmission (@fig-2). The most important species vary by region and include *Anopheles gambiae* and *Anopheles funestus* in Africa, *Anopheles stephensi* in South Asia, and *Anopheles darlingi* in South America (@fig-2).
 
-The lifecycle of P. falciparum is complex and involves many antigenically distinct stages and two hosts: the female Anopheles mosquito and humans (@fig-1). Mosquitos can inoculate between 15--200 sporozoites into a human host, and these infective parasites then undergo development inside hepatocytes to form merozoites. After a period of around 7--10 days sporozoites mature into schizonts which then rupture, and merozoites are released into the bloodstream where they invade red blood cells. Within the red blood cells, merozoites replicate, producing around 16--32 daughter merozoites which are then released into the blood stream following red blood cell rupture, where they reinvade new red blood cells. This process of invasion, replication and release occurs with a periodicity of 24--26 hours, and it is these periodic cycles that are associated with clinical disease manifestations. After approximately 10 days, a subset of red blood cell invading merozoites will differentiate into gametocytes, and these gametocytes continue to circulate in hosts until they are ingested by a feeding mosquito. Sexual reproduction then occurs in the mosquito midgut where gametes fuse to produce a zygote that elongates to become a motile ookinete, invades the midgut wall, and forms an oocyst. Following a sporogonic period of approximately 8--10 days, the oocysts burst to release sporozoites that travel to the mosquito's salivary glands, where they are ready for the cycle to repeat when the mosquito host takes a new blood meal.
+## Key Species
 
-![**The lifecycle of *P. falciparum* in humans and mosquitos.** **A)** Inoculation of sporozoites and the pre-erythrocytic infection stages in the liver; **B)** Asexual reproduction and blood stage infection; **C)** Gametocyte production and ingestion during a bloodmeal; and **D)** Sexual reproduction and developmental stages within the mosquito.](figures/lifecycle.png){#fig-1}
+-   **Anopheles gambiae Complex**: This group includes several species that are among the most efficient malaria vectors, particularly in Sub-Saharan Africa. *A. gambiae* is known for its strong preference for biting humans (anthropophilic behavior), which makes it an especially effective vector.
 
-*P. vivax* differs from the *P. falciparum* lifecycle in several ways, however, one of the most epidemiologically significant is the ability of *P. vivax* to lie dormant and undetectable in the liver of infected human hosts. This hypnozoite stage can reactivate weeks, months, or even years after the initial infection and re-enters the bloodstream causing relapses in clinical malaria and further onwards transmission. The variation in relapse times results from regional and seasonal variations in mosquito vector populations, with tropical regions tending to experience shorter relapse periods, and longer periods in more temperate areas.
+-   **Anopheles funestus**: Another major vector in Africa, *A. funestus* is highly efficient in transmitting *P. falciparum*, the most deadly malaria parasite. It is often found in more permanent water bodies and is also anthropophilic.
 
-## Transmission dynamics
+-   **Anopheles stephensi**: Found primarily in urban and peri-urban areas of South Asia and parts of the Middle East, *A. stephensi* is a significant vector of urban malaria. Its ability to breed in man-made water containers makes it particularly difficult to control.
 
+-   **Anopheles dirus**: This species is a primary vector in Southeast Asia and is known for its adaptation to forested areas, making it a significant concern in rural and forested regions.
+
+-   **Anopheles darlingi**: The main malaria vector in the Amazon Basin, *A. darlingi* is highly adaptable, breeding in a variety of natural and man-made water bodies.
+
+![A global map of dominant malaria vector species. Reproduced from Sinka et al 2014.[^topic2b-lifecycle-1]](figures/anopheles-spp-dist.png){#fig-2}
+
+[^topic2b-lifecycle-1]: Sinka, M.E., Bangs, M.J., Manguin, S. *et al.* A global map of dominant malaria vectors. *Parasites Vectors* **5**, 69 (2012). <https://doi.org/10.1186/1756-3305-5-69>
+
+[^topic2b-lifecycle-2]: Sinka, M.E., Bangs, M.J., Manguin, S. *et al.* A global map of dominant malaria vectors. *Parasites Vectors* **5**, 69 (2012). <https://doi.org/10.1186/1756-3305-5-69>
+
+## Anopheles Lifecycle
+
+Malaria parasites are transmitted by the female mosquito of the Anopheles genus. Anopheles species have four distinct life stages: egg, larva and pupa make up the juvenile aquatic stages before the final adult stage. Juvenile stages last for around 5--14 days depending on the species and the ambient temperature. Once at the adult stage mosquitos tend to mate within a few days of emergence and feed on sugar sources for energy. Female mosquitos will also require a blood meal for the development of her eggs. It is this stage that links the female mosquito and the human hosts in the malaria transmission cycle.
+
+Following a blood meal, the female must rest while the eggs are developed, again this process depends on the ambient temperature taking around two to three days in tropical conditions. Females will then lay their eggs in standing water and continue to seek further blood meals to sustain further egg production. This cycle continues until the female dies, around one to two weeks later.
+
+Chances of survival are dependent on temperature and humidity and the ability of the female mosquito to find a blood meal. In order to transmit parasites mosquitos must survive for longer than the extrinsic incubation period of plasmodium which is around 9--18 days depending on species and temperature (higher temperatures accelerate parasite growth). Many Anopheles species are opportunistic in their feeding behaviour and will take a blood meal from whatever host is available either human or animal. The degree to which a species favours humans, known as anthrophily, determines their efficiency as a vector of malaria. *Anopheles gambiae* and *Anopheles funestus* are two highly anthropophilic species that makes them the primary vector in much of sub-Saharan Africa.
+
+## Feeding Behaviors
+
+A summary of some key terms and behviours in mosuqito feeding behaviours:
+
+-   **Anthropophily**: Many *Anopheles* species exhibit a strong preference for human blood, a behavior known as anthropophily. This preference significantly enhances their role as malaria vectors. For example, *A. gambiae* is highly anthropophilic, which, coupled with its breeding in proximity to human habitation, makes it one of the most effective malaria vectors globally.
+
+-   **Crepuscular and Nocturnal Activity**: Most *Anopheles* mosquitoes are active during twilight hours (dusk and dawn) and at night. This behavior is critical for malaria transmission, as it coincides with human sleeping patterns, making bed nets an effective intervention.
+
+-   **Endophagy and Exophagy**:
+
+    -   **Endophagic** mosquitoes prefer to feed indoors, making indoor residual spraying (IRS) and insecticide-treated nets (ITNs) effective control measures.
+
+    -   **Exophagic** species feed outdoors, requiring different strategies such as outdoor spraying and environmental management.
+
+## Breeding Environments

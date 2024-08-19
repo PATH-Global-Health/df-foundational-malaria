@@ -11,4 +11,4 @@ This topic delves into the biology of the malaria parasite, providing a detailed
 ```
 -   Explain the life cycle of the malaria parasite, highlighting the stages within the human and mosquito hosts.
 
--   Understand the role of human and mosquito hosts in malaria transmission and the implications for disease control and prevention.
+-   Understand the role of mosquito hosts in malaria transmission.
