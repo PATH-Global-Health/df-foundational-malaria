@@ -1,6 +1,6 @@
 # Human Immune Response
 
-Morbidity due to P. falciparum infections can vary from mild clinical symptoms of febrile illness to severe and life-threatening disease due to vital organ dysfunction. Individuals living in malaria endemic areas, however, do acquire substantial protection against clinical and severe forms of malaria, but rarely, if ever, is sterile immunity achieved.[^topic2c-immunity-1] Generally, immunity against severe malaria develops rapidly, followed by immunity against clinical disease and finally, more slowly, the build-up of immune tolerance to blood-stage parasites (@fig-1).[^topic2c-immunity-2] While immunity to patent parasitaemia can develop by adulthood, subpatent infections that are detectable with advancements in molecular diagnostic techniques still occur. It is this immune tolerance that results in asymptomatic carrier infections among adult populations in malaria-endemic areas.[^topic2c-immunity-3][^topic2c-immunity-4]
+Morbidity due to *P. falciparum* infections can vary from mild clinical symptoms of febrile illness to severe and life-threatening disease due to vital organ dysfunction. Individuals living in malaria endemic areas, however, do acquire substantial protection against clinical and severe forms of malaria, but rarely, if ever, is sterile immunity achieved.[^topic2c-immunity-1] Generally, immunity against severe malaria develops rapidly, followed by immunity against clinical disease and finally, more slowly, the build-up of immune tolerance to blood-stage parasites (@fig-1).[^topic2c-immunity-2] While immunity to patent parasitaemia can develop by adulthood, subpatent infections that are detectable with advancements in molecular diagnostic techniques still occur. It is this immune tolerance that results in asymptomatic carrier infections among adult populations in malaria-endemic areas.[^topic2c-immunity-3][^topic2c-immunity-4]
 
 [^topic2c-immunity-1]: Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clin Microbiol Rev. 2009 Jan;22(1):13-36, <https://doi.org/10.1128%2FCMR.00025-08>
 
@@ -43,7 +43,7 @@ The key mechanisms understood to play a significant role at each parasite life-s
 ![Overview of the immune responses directed against each malaria parasite life stage.](figures/immune-responses.png)
 
 ::: callout-note
-**Take aways:**
+## Key Take-aways
 
 Naturally occurring immune responses to sporozoite life-stages are poor and frequently inefficient at eliminating parasites and are generally considered inadequate to confer protection against clinical malaria.
 
@@ -58,6 +58,5 @@ Below is a great lecture by Professor Kevin Marsh that describes how knowledge o
 
 Watch this for a great overview to a very complex topic!
 
-```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bJ6nS-I-HiM" style="border:none; width:100%; </iframe>
-```
+{{< video https://www.youtube.com/embed/bJ6nS-I-HiM >}}
+
