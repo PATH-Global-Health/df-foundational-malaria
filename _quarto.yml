@@ -14,6 +14,7 @@ book:
     chapters: 
     - topic2a-plasmodium-spp.qmd
     - topic2b-lifecycle.qmd
+    - topic2c-immunity.qmd 
 
 bibliography: references.bib
 format:

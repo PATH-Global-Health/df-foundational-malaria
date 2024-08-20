@@ -24,7 +24,35 @@ The acquisition of immunity to malaria has been shown to be both age- and exposu
 
 ![Progression of Naturally Acquired Immunity to Malaria. The relationship between age and malaria severity in an area of moderate transmission inte nsity shows how with repeated exposure by early childhood, protection is first acquired against severe disease, then more slowly protection builds up against clinical disease and finally much more slowly develops against parasitaemia. In areas with higher transmission intensity the rate of acquisition of naturally acquired immunity can increase. Reproduced from Griffin et al 2015 doi: <https://doi.org/10.1098/rspb.2014.2657>.](figures/immunity.png){#fig-1}
 
-## Prof. Kevin Marsh - "Immunity to Malaria in Humans
+## Immune response overview
+
+Due to the parasites multistage lifecycle, there are several points at which the immune system could respond to the invading threat. Upon first exposure to blood stage parasites, the innate immune system launches a non-specific immune response triggering a release of pro-inflammatory cytokines which help to limit parasite growth.[^topic2c-immunity-10] These cytokine responses also allow for the effective priming of the humoral and cellular-mediated immune responses which then provide adaptive responses upon re-exposure.
+
+[^topic2c-immunity-10]: Stevenson MM, Riley EM. Innate immunity to malaria. Nat Rev Immunol. 2004 Mar;4(3):169-80. doi: [10.1038/nri1311](https://doi.org/10.1038/nri1311)
+
+Key to the adaptive immune response is the phenomenon of pattern recognition of parasite antigens by B and T cells, which enables a rapid and more effective parasite specific protective response to each lifecycle stage. However, the exact immune effector mechanisms involved in parasite regulation, control and elimination at each lifecycle stage are not fully characterised. The ability of malaria parasites to evade and interfere with effective immune responses also presents several challenges in mounting and understanding successful immune responses. [^topic2c-immunity-11] [^topic2c-immunity-12] [^topic2c-immunity-13]
+
+[^topic2c-immunity-11]: Langhorne J, Ndungu FM, Sponaas AM, Marsh K. Immunity to malaria: more questions than answers. Nat Immunol. 2008 Jul;9(7):725-32. doi: [10.1038/ni.f.205](https://doi.org/10.1038/ni.f.205)
+
+[^topic2c-immunity-12]: Ramasamy R. Molecular basis for evasion of host immunity and pathogenesis in malaria. Biochim Biophys Acta. 1998 Feb 27;1406(1):10-27. doi: [10.1016/s0925-4439(97)00078-1](https://doi.org/10.1016/s0925-4439(97)00078-1)
+
+[^topic2c-immunity-13]: Gomes PS, Bhardwaj J, Rivera-Correa J, Freire-De-Lima CG, Morrot A. Immune Escape Strategies of Malaria Parasites. Front Microbiol. 2016 Oct 17;7:1617. doi: [10.3389/fmicb.2016.01617](https://doi.org/10.3389%2Ffmicb.2016.01617)
+
+The key mechanisms understood to play a significant role at each parasite life-stage are shown in @fig-1.
+
+![Overview of the immune responses directed against each malaria parasite life stage.](figures/immune-responses.png)
+
+::: callout-note
+**Take aways:**
+
+Naturally occurring immune responses to sporozoite life-stages are poor and frequently inefficient at eliminating parasites and are generally considered inadequate to confer protection against clinical malaria.
+
+The majority of naturally acquired immunity is directed against blood stage parasites -- both freely circulating merozoites and infected red blood cells. However inflammatory responses associated with immune response to this stage can result in significant immunopathology.
+
+Gametocyte specific antibodies are often poorly induced and not widely circulating in populations
+:::
+
+## Prof. Kevin Marsh - "Immunity to Malaria in Humans"
 
 Below is a great lecture by Professor Kevin Marsh that describes how knowledge of immunity to malaria in humans has developed over the past thirty years and what impact this has for future research. This seminar was delivered at the University of Oxfords Centre for Tropical Medicine, Oxford, UK, 29th October 2013.
 
