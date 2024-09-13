@@ -6,11 +6,11 @@ Malaria is caused by the protozoan parasite Plasmodium of which there are five s
 
 -   *Plasmodium falciparum* is the most deadly and widespread species, responsible for the majority of malaria-related deaths, particularly in Sub-Saharan Africa. It is known for causing severe malaria, including cerebral malaria, which can be fatal if not promptly treated.
 
--   *Plasmodium vivax* is the most widespread species outside of Sub-Saharan Africa, particularly in Asia and Latin America. While generally less lethal than P. falciparum, P. vivax can cause severe disease and is notorious for its ability to remain dormant in the liver, leading to relapses.
+-   *Plasmodium vivax* is the most widespread species outside of Sub-Saharan Africa, particularly in Asia and Latin America. While generally less lethal than *P. falciparum*, *P. vivax* can cause severe disease and is notorious for its ability to remain dormant in the liver, leading to relapses.
 
 -   *Plasmodium malariae* is less common but can cause chronic infection, sometimes persisting in the blood for years if untreated. It is found in Africa, Asia, and the Americas.
 
--   *Plasmodium ovale* is similar to P. vivax in its ability to cause relapses due to dormant liver stages. It is primarily found in West Africa but also occurs in Asia and the Pacific islands.
+-   *Plasmodium ovale* is similar to *P. vivax* in its ability to cause relapses due to dormant liver stages. It is primarily found in West Africa but also occurs in Asia and the Pacific islands.
 
 -   *Plasmodium knowlesi* is primarily a parasite of macaque monkeys in Southeast Asia but can infect humans. *P. knowlesi* infections can progress rapidly and be severe[^topic2a-plasmodium-spp-1], making it an emerging concern in the region.
 

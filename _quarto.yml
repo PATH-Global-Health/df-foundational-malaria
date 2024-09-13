@@ -15,6 +15,12 @@ book:
     - topic2a-plasmodium-spp.qmd
     - topic2b-lifecycle.qmd
     - topic2c-immunity.qmd 
+   - part: topic3-intro.qmd
+    chapters: 
+    - topic3a-anopheles-trans.qmd
+    - topic3b-environment.qmd
+    - topic3c-human-behaviour.qmd
+
 
 bibliography: references.bib
 format:

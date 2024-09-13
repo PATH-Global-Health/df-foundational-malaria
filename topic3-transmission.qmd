@@ -1,0 +1,17 @@
+# Malaria Transmission
+
+Malaria transmission is a complex process that involves multiple factors, including the biology of the *Plasmodium* parasite, the behavior of *Anopheles* mosquitoes, and various environmental, climatic, and human factors. Understanding how malaria is transmitted is crucial for developing effective prevention and control strategies. This chapter explores the key components of malaria transmission, focusing on the role of the mosquito vector, environmental influences, and human behaviors that contribute to the spread of the disease and how malaria transmission can be measured and described in the literature.
+
+## Learning objectives
+
+-   Identify the key *Anopheles* mosquito species responsible for malaria transmission and understand their role in the transmission process.
+
+-   Describe how environmental factors like temperature, rainfall, and humidity influence malaria transmission.
+
+-   Recognize the impact of human behaviors, including agriculture, migration, and urbanization, on malaria transmission.
+
+-   Explain the malaria transmission cycle and the concept of the basic reproduction number (R0).
+
+-   Understand the concept of heterogeneity in malaria transmission and its implications for control efforts.
+
+-   Apply knowledge of malaria transmission to propose effective malaria control strategies.

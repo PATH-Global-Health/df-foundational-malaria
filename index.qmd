@@ -26,7 +26,7 @@ We will meet as a team on **\[INSERT DATE\]** to discuss module content, check t
 
 -   [Introduction to Malaria](topic1-intro.qmd)
 
--   Malaria Parasite Biology
+-   [The Biology of Malaria](topic2-intro.qmd)
 
 -   Epidemiology of Malaria
 
