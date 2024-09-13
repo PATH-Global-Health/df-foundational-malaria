@@ -18,7 +18,7 @@ book:
   - part: topic3-intro.qmd
     chapters: 
     - topic3a-anopheles-trans.qmd
-    - topic3b-environment.qmd
+    - topic3b-environment-and-transmission.qmd
     - topic3c-human-behaviour.qmd
 
 
