@@ -1,5 +1,59 @@
 ---
-title: "Human Behaviour "
-format: html
-editor: visual
+title: "Human Behavioral Factors in Malaria Transmission"
 ---
+
+Human behavior plays a crucial role in determining the risk of malaria transmission. Certain activities, social practices, and economic conditions can either increase or reduce exposure to *Anopheles* mosquitoes, directly influencing the spread of malaria. Understanding these behaviors is essential for developing effective prevention strategies that fit within the local context.
+
+## Exposured to Mosquito Bites 
+
+Human activities that increase exposure to mosquitoes, especially during peak biting times, significantly heighten the risk of malaria transmission. *Anopheles* mosquitoes are most active during dusk and dawn, and individuals who are outdoors during these times, whether for work, leisure, or travel, are at greater risk.
+
+-   **Agricultural Work**: In rural areas, late-night or early-morning agricultural activities increase exposure to mosquitoes. Farmers who work in fields near mosquito breeding sites, such as rice paddies, are particularly vulnerable. Fishing communities who work at night on open water also face higher risk of malaria due to increased mosquito exposure.
+
+-   **Household Practices**: The use of open windows or poorly constructed housing without screens allows mosquitoes easy entry into homes. Sleeping without the protection of insecticide-treated bed nets (ITNs) also greatly increases the risk of malaria, particularly for children and pregnant women.
+
+::: callout-tip
+Some good articles on Human Behaviours and High Risk Populations for malaria transmission are noted below - take a read through!
+
+-   [Identifying and characterizing high-risk populations in pilot malaria elimination districts in Madagascar: a mixed-methods study](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-024-04927-w)
+
+-   [Tailoring malaria interventions to high--risk groups in Senegal](https://www.path.org/our-impact/articles/high-risk-groups-in-senegal/)
+
+-   [Malaria prevention and treatment in migrant agricultural workers in Dangur district, Benishangul-Gumuz, Ethiopia: social and behavioural aspects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8135166/)
+
+-   [Protecting Cambodia\'s Migrant Workers Against Malaria through an Innovative Net-Lending Scheme](https://www.pmi.gov/protecting-cambodias-migrant-workers-against-malaria-through-an-innovative-net-lending-scheme/)
+:::
+
+## Socioeconomic Status  
+
+Communities with limited resources may lack access to essential malaria prevention tools such as bed nets, insecticides, or medical treatment.
+
+-   **Healthcare Access**: Poorer households may not have timely access to health services, leading to delayed diagnosis and treatment. This increases the duration of infection and, consequently, the risk of further transmission within the community.
+
+-   **Living Conditions**: Overcrowded living conditions and inadequate housing infrastructure, often seen in impoverished areas, create environments conducive to malaria transmission. Houses with open eaves, unsealed walls, or a lack of windows and screens offer easy entry for mosquitoes.
+
+## Cultural Practices 
+
+Cultural and social practices significantly influence exposure to mosquito bites and the resulting risk of malaria transmission. In many communities, outdoor gatherings, celebrations, and rituals play a central role in social life, but they also increase the risk of malaria transmission due to prolonged outdoor exposure during peak mosquito activity.
+
+A qualitative study conducted in South-Eastern Tanzania by [Moshi et al. (2018)](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-018-2550-8#:~:text=Spending%20time%20outdoors%20to%20participate,to%20prevent%20bites%20is%20rare.) explored how cultural practices and social gatherings contribute to malaria transmission. The study found that outdoor events, including religious, cultural, and social celebrations, often expose people to mosquito bites during evening and nighttime hours when *Anopheles* mosquitoes are most active. Events like weddings, funerals, male circumcision ceremonies, and religious festivals, where participants stay outdoors overnight, create environments where mosquito bites are common. Despite the known risks, protective measures such as bed nets or repellents are rarely used during these events due to cultural norms or perceived inappropriateness.
+
+## Urbanization 
+
+Urbanization presents a complex scenario for malaria transmission. While urban areas typically have lower transmission rates due to better infrastructure and healthcare, unplanned urbanization can create conditions favorable for mosquitoes.
+
+-   **Urban Slums**: In rapidly growing cities, informal settlements or slums often lack adequate sanitation and drainage systems, leading to the accumulation of stagnant water, which serves as breeding sites for mosquitoes. Poor housing quality and limited access to preventive measures increase the risk of transmission in these areas.
+
+-   **Shifts in Vector Behavior**: In urban areas, mosquitoes may adapt their feeding patterns or find alternative breeding sites, such as containers of standing water in construction sites, broken pipes, or discarded tires. These environmental changes, combined with high population density, can sustain malaria transmission in urban settings.
+
+::: callout-important
+# **Responding to malaria in urban areas: a new framework from WHO and UN-Habitat**
+
+In 2022 the WHO released a Global Framework for the response to malaria in urban areas.
+
+Given the rapidly urbanizing world, most people in malaria-affected countries will soon be living in urban areas. If you take the example of Nigeria, which accounts for about a quarter of the global burden of malaria, nearly half of the population is already living in urban areas.
+
+There are many challenges to Urban Malaria - including new and highly adaptive vectors, the challenges of social inequity -- an issue found in both rural and urban settings and the rapid and often unplanned urbanization in malaria endemic countries. And then, of course, we are dealing with a lack of financial and other resources. 
+
+The framework is avaliable here: <https://www.who.int/publications/i/item/9789240061781>
+:::
