@@ -343,7 +343,7 @@
     "section": "",
     "text": "7.1 Biology and Behavior of Anopheles Mosquitoes\nAs described in the previous chapter, malaria transmission is primarily driven by the Anopheles mosquito, which acts as the vector for the Plasmodium parasite. The biology and behavior of Anopheles mosquitoes are critical to their efficiency as vectors.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -354,7 +354,7 @@
     "section": "",
     "text": "Feeding Behavior: Female Anopheles mosquitoes are hematophagous, meaning they feed on blood to obtain the nutrients required for egg development. Their preference for human blood (anthropophily) makes them particularly effective vectors of malaria. Mosquitoes that feed primarily at night are most dangerous because they coincide with human sleep patterns, increasing the likelihood of undisturbed feeding. Blood feeding is really an essential component in the mosquito life cycle. And this is a step in which mosquitoes from different species exhibit quite a variety of behaviors.\n\nSome mosquito species are highly adapted to feeding on humans. So they are highly anthropophilic. While other mosquito species predominantly feed on animals, such as birds, or cows, or rats. The propensity of a mosquito to feed on humans, rather than animals, can actually be measured. And this is the human blood index. The human blood index can be measured by collecting mosquitoes in the field and looking at the content of their blood to see whether it’s from animal or from human origin. This value goes from 0 to 1. With 0, being mosquitoes that feed exclusively on animals, so highly zoophilic. And 1, with mosquitoes that feed only on humans, so highly anthropophilic. Many mosquito species with a high level of anthropophilia actually cluster in Africa. And these mosquitoes belong to mosquitoes of the Anopheles gambiae complex, such as Anopheles gambiae, Anopheles coluzzii. But also, Anopheles funestus, which is another very important vector of human malaria in Africa.\n\nResting Behavior: After feeding, Anopheles mosquitoes typically rest indoors (endophily) or outdoors (exophily). Indoor resting mosquitoes are targeted by indoor residual spraying (IRS) and insecticide-treated nets (ITNs), which are effective control strategies.\nFlight Range: Anopheles mosquitoes generally have a limited flight range, typically staying within a few kilometers of their breeding sites. However, their ability to locate humans through carbon dioxide and body odor means that even small numbers of mosquitoes can sustain transmission if they are close to human habitation.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -365,7 +365,7 @@
     "section": "7.2 Vector Competence and Efficiency",
     "text": "7.2 Vector Competence and Efficiency\nNot all Anopheles species are equally competent malaria vectors. Vector competence refers to the mosquito’s ability to acquire, maintain, and transmit the malaria parasite. This competence is influenced by factors such as:\n\nSusceptibility to Infection: Some Anopheles species are more susceptible to Plasmodium infection, meaning they are more likely to become infected after feeding on an infected person.\nParasite Development: The development of the malaria parasite within the mosquito, known as the extrinsic incubation period, must be completed before the mosquito can transmit the parasite to another human. This period is temperature-dependent, with warmer temperatures accelerating parasite development.\nFeeding Frequency and Longevity: Mosquitoes that feed more frequently and live longer are more likely to transmit malaria because they have more opportunities to pick up and pass on the parasite.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -376,7 +376,7 @@
     "section": "7.3 Mosquito Lifespan and the Extrinsic Incubation Period",
     "text": "7.3 Mosquito Lifespan and the Extrinsic Incubation Period\nThe lifespan of the mosquito is a critical factor in malaria transmission. The extrinsic incubation period, which is the time required for the malaria parasite to develop within the mosquito, typically lasts 10-21 days, depending on the temperature. If a mosquito survives this period, it becomes infectious and can transmit malaria to humans. Therefore, the longer the mosquito lives, the greater the likelihood that it will contribute to malaria transmission.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -385,9 +385,9 @@
     "href": "topic3a-anopheles-trans.html#local-vector-species-composition",
     "title": "7  Role of Anopheles Mosquitoes in Malaria Transmission",
     "section": "7.4 Local vector species composition",
-    "text": "7.4 Local vector species composition\nIn any given area, there might be multiple Anopheles species that live in sympatry and this might complicate control measures. For instance, let’s have a look at Africa, and the Anopheles gambiae complex. This complex comprises eight mosquito species that are morphologically identical and can only be distinguished on the molecular level. These species include some of the most important malaria vectors, such as Anopheles gambiae, Anopheles arabiensis, and Anopheles coluzzii. Anopheles gambiae and Anopheles coluzzii have very similar biting behavior, because they both tend to feed on humans and late at night and indoors. However, they show quite different ecological habitats due to larval developments. Anopheles gambiae tend to prefer living in temporary breeding sites, such as rain puddles. While Anopheles coluzzii prefer living in permanent breeding sites, such as rice fields. Anopheles arabiensis is a third important malaria vector that shares habitats with Anopheles gambiae and Anopheles coluzzii. Historically, this mosquito species was not considered to be a very important vector for human malaria, because these mosquitoes also feed on animals, apart from humans, and so they dilute potential infectious bites. However, because of their plastic behavior, and the fact that these mosquitoes can feed outdoors and rest outdoors, apart from feeding and resting indoors, these mosquitoes become more difficult to be controlled with current vector control strategies. And so in recent years, they’ve become more and more relevant for malaria transmission.\nWhen multiple mosquito species live in sympatry, it becomes difficult to understand the relative contribution to malaria transmission. The species composition of Anopheles mosquitoes is critically important to malaria transmission because different species vary in their behavior, habitat preferences, and susceptibility to control measures. Changes in the dominant vector species can affect the overall transmission dynamics, influencing where, when, and how intensely malaria is transmitted. For example, species that are more resistant to insecticides or have different feeding patterns may sustain transmission even in areas with strong control measures. Therefore, understanding and monitoring species composition is essential for designing effective and targeted malaria interventions.\nThe recent study by Msugupakulya et al. (2023) highlights a notable shift in the primary malaria vectors in East and Southern Africa over the past two decades.2 Historically, the Anopheles gambiae complex, particularly An. gambiae and An. arabiensis, were the dominant contributor to malaria transmission. However, from 2011 onwards, Anopheles funestus has emerged as the primary vector, especially in regions where insecticide-treated nets (ITNs) and indoor residual spraying (IRS) have been widely implemented. The changing vector composition suggests that control strategies need to adapt to the evolving landscape and monitor for changes in the species compostion of mosquitos across the continent.",
+    "text": "7.4 Local vector species composition\nIn any given area, there might be multiple Anopheles species that live in sympatry and this might complicate control measures. For instance, let’s have a look at Africa, and the Anopheles gambiae complex. This complex comprises eight mosquito species that are morphologically identical and can only be distinguished on the molecular level. These species include some of the most important malaria vectors, such as Anopheles gambiae, Anopheles arabiensis, and Anopheles coluzzii. Anopheles gambiae and Anopheles coluzzii have very similar biting behavior, because they both tend to feed on humans and late at night and indoors. However, they show quite different ecological habitats due to larval developments. Anopheles gambiae tend to prefer living in temporary breeding sites, such as rain puddles. While Anopheles coluzzii prefer living in permanent breeding sites, such as rice fields. Anopheles arabiensis is a third important malaria vector that shares habitats with Anopheles gambiae and Anopheles coluzzii. Historically, this mosquito species was not considered to be a very important vector for human malaria, because these mosquitoes also feed on animals, apart from humans, and so they dilute potential infectious bites. However, because of their plastic behavior, and the fact that these mosquitoes can feed outdoors and rest outdoors, apart from feeding and resting indoors, these mosquitoes become more difficult to be controlled with current vector control strategies. And so in recent years, they’ve become more and more relevant for malaria transmission.\nWhen multiple mosquito species live in sympatry, it becomes difficult to understand the relative contribution to malaria transmission. The species composition of Anopheles mosquitoes is critically important to malaria transmission because different species vary in their behavior, habitat preferences, and susceptibility to control measures. Changes in the dominant vector species can affect the overall transmission dynamics, influencing where, when, and how intensely malaria is transmitted. For example, species that are more resistant to insecticides or have different feeding patterns may sustain transmission even in areas with strong control measures. Therefore, understanding and monitoring species composition is essential for designing effective and targeted malaria interventions.\nThe recent study by Msugupakulya et al. (2023) highlights a notable shift in the primary malaria vectors in East and Southern Africa over the past two decades.1 Historically, the Anopheles gambiae complex, particularly An. gambiae and An. arabiensis, were the dominant contributor to malaria transmission. However, from 2011 onwards, Anopheles funestus has emerged as the primary vector, especially in regions where insecticide-treated nets (ITNs) and indoor residual spraying (IRS) have been widely implemented. The changing vector composition suggests that control strategies need to adapt to the evolving landscape and monitor for changes in the species compostion of mosquitos across the continent.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -396,9 +396,9 @@
     "href": "topic3a-anopheles-trans.html#footnotes",
     "title": "7  Role of Anopheles Mosquitoes in Malaria Transmission",
     "section": "",
-    "text": "Kiszewski A, Mellinger A, Spielman A, Malaney P, Sachs SE, Sachs J. A global index representing the stability of malaria transmission. Am J Trop Med Hyg. 2004 May;70(5):486-98. PMID: 15155980.↩︎\nMsugupakulya, B.J., Urio, N.H., Jumanne, M. et al. Changes in contributions of different Anopheles vector species to malaria transmission in east and southern Africa from 2000 to 2022. Parasites Vectors 16, 408 (2023). https://doi.org/10.1186/s13071-023-06019-1↩︎",
+    "text": "Msugupakulya, B.J., Urio, N.H., Jumanne, M. et al. Changes in contributions of different Anopheles vector species to malaria transmission in east and southern Africa from 2000 to 2022. Parasites Vectors 16, 408 (2023). https://doi.org/10.1186/s13071-023-06019-1↩︎",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Role of Anopheles Mosquitoes in Malaria Transmission</span>"
     ]
   },
@@ -409,7 +409,7 @@
     "section": "",
     "text": "8.1 Breeding Habitats and Environmental Conditions\nAnopheles mosquitoes breed in a variety of aquatic environments, and the availability and quality of these breeding sites play a crucial role in malaria transmission.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Environmental and Climatic Factors and Their Role in Transmission</span>"
     ]
   },
@@ -420,7 +420,7 @@
     "section": "",
     "text": "Natural Breeding Sites: These include swamps, marshes, ponds, and slow-moving streams. These sites are abundant in rural and forested areas, making such regions more prone to malaria.\nMan-Made Breeding Sites: Urbanization and human activities have led to the creation of artificial breeding sites, such as irrigation channels, rice fields, and water storage containers. These sites can support large mosquito populations even in densely populated areas.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Environmental and Climatic Factors and Their Role in Transmission</span>"
     ]
   },
@@ -431,8 +431,63 @@
     "section": "8.2 Seasonality of Malaria Transmission",
     "text": "8.2 Seasonality of Malaria Transmission\nMalaria transmission is often seasonal, particularly in regions with distinct wet and dry seasons. The transmission typically peaks during or after the rainy season when breeding sites are most abundant, and mosquito populations are at their highest.\n\nEndemic Regions: In stable endemic regions, malaria transmission occurs year-round, but there are still seasonal peaks.\nEpidemic-Prone Regions: In areas where malaria is not endemic or is close to elimination, transmission can occur in short, intense outbreaks during favorable climatic conditions, leading to outbreaks.",
     "crumbs": [
-      "topic3-intro.qmd",
+      "Malaria Transmission",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Environmental and Climatic Factors and Their Role in Transmission</span>"
+    ]
+  },
+  {
+    "objectID": "topic3c-human-behaviour.html",
+    "href": "topic3c-human-behaviour.html",
+    "title": "9  Human Behavioral Factors in Malaria Transmission",
+    "section": "",
+    "text": "9.1 Exposured to Mosquito Bites\nHuman activities that increase exposure to mosquitoes, especially during peak biting times, significantly heighten the risk of malaria transmission. Anopheles mosquitoes are most active during dusk and dawn, and individuals who are outdoors during these times, whether for work, leisure, or travel, are at greater risk.",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Human Behavioral Factors in Malaria Transmission</span>"
+    ]
+  },
+  {
+    "objectID": "topic3c-human-behaviour.html#exposured-to-mosquito-bites",
+    "href": "topic3c-human-behaviour.html#exposured-to-mosquito-bites",
+    "title": "9  Human Behavioral Factors in Malaria Transmission",
+    "section": "",
+    "text": "Agricultural Work: In rural areas, late-night or early-morning agricultural activities increase exposure to mosquitoes. Farmers who work in fields near mosquito breeding sites, such as rice paddies, are particularly vulnerable. Fishing communities who work at night on open water also face higher risk of malaria due to increased mosquito exposure.\nHousehold Practices: The use of open windows or poorly constructed housing without screens allows mosquitoes easy entry into homes. Sleeping without the protection of insecticide-treated bed nets (ITNs) also greatly increases the risk of malaria, particularly for children and pregnant women.\n\n\n\n\n\n\n\nTip\n\n\n\nSome good articles on Human Behaviours and High Risk Populations for malaria transmission are noted below - take a read through!\n\nIdentifying and characterizing high-risk populations in pilot malaria elimination districts in Madagascar: a mixed-methods study\nTailoring malaria interventions to high–risk groups in Senegal\nMalaria prevention and treatment in migrant agricultural workers in Dangur district, Benishangul-Gumuz, Ethiopia: social and behavioural aspects\nProtecting Cambodia's Migrant Workers Against Malaria through an Innovative Net-Lending Scheme",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Human Behavioral Factors in Malaria Transmission</span>"
+    ]
+  },
+  {
+    "objectID": "topic3c-human-behaviour.html#socioeconomic-status",
+    "href": "topic3c-human-behaviour.html#socioeconomic-status",
+    "title": "9  Human Behavioral Factors in Malaria Transmission",
+    "section": "9.2 Socioeconomic Status",
+    "text": "9.2 Socioeconomic Status\nCommunities with limited resources may lack access to essential malaria prevention tools such as bed nets, insecticides, or medical treatment.\n\nHealthcare Access: Poorer households may not have timely access to health services, leading to delayed diagnosis and treatment. This increases the duration of infection and, consequently, the risk of further transmission within the community.\nLiving Conditions: Overcrowded living conditions and inadequate housing infrastructure, often seen in impoverished areas, create environments conducive to malaria transmission. Houses with open eaves, unsealed walls, or a lack of windows and screens offer easy entry for mosquitoes.",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Human Behavioral Factors in Malaria Transmission</span>"
+    ]
+  },
+  {
+    "objectID": "topic3c-human-behaviour.html#cultural-practices",
+    "href": "topic3c-human-behaviour.html#cultural-practices",
+    "title": "9  Human Behavioral Factors in Malaria Transmission",
+    "section": "9.3 Cultural Practices",
+    "text": "9.3 Cultural Practices\nCultural and social practices significantly influence exposure to mosquito bites and the resulting risk of malaria transmission. In many communities, outdoor gatherings, celebrations, and rituals play a central role in social life, but they also increase the risk of malaria transmission due to prolonged outdoor exposure during peak mosquito activity.\nA qualitative study conducted in South-Eastern Tanzania by Moshi et al. (2018) explored how cultural practices and social gatherings contribute to malaria transmission. The study found that outdoor events, including religious, cultural, and social celebrations, often expose people to mosquito bites during evening and nighttime hours when Anopheles mosquitoes are most active. Events like weddings, funerals, male circumcision ceremonies, and religious festivals, where participants stay outdoors overnight, create environments where mosquito bites are common. Despite the known risks, protective measures such as bed nets or repellents are rarely used during these events due to cultural norms or perceived inappropriateness.",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Human Behavioral Factors in Malaria Transmission</span>"
+    ]
+  },
+  {
+    "objectID": "topic3c-human-behaviour.html#urbanization",
+    "href": "topic3c-human-behaviour.html#urbanization",
+    "title": "9  Human Behavioral Factors in Malaria Transmission",
+    "section": "9.4 Urbanization",
+    "text": "9.4 Urbanization\nUrbanization presents a complex scenario for malaria transmission. While urban areas typically have lower transmission rates due to better infrastructure and healthcare, unplanned urbanization can create conditions favorable for mosquitoes.\n\nUrban Slums: In rapidly growing cities, informal settlements or slums often lack adequate sanitation and drainage systems, leading to the accumulation of stagnant water, which serves as breeding sites for mosquitoes. Poor housing quality and limited access to preventive measures increase the risk of transmission in these areas.\nShifts in Vector Behavior: In urban areas, mosquitoes may adapt their feeding patterns or find alternative breeding sites, such as containers of standing water in construction sites, broken pipes, or discarded tires. These environmental changes, combined with high population density, can sustain malaria transmission in urban settings.\n\n\n\n\n\n\n\nResponding to malaria in urban areas: a new framework from WHO and UN-Habitat\n\n\n\nIn 2022 the WHO released a Global Framework for the response to malaria in urban areas.\nGiven the rapidly urbanizing world, most people in malaria-affected countries will soon be living in urban areas. If you take the example of Nigeria, which accounts for about a quarter of the global burden of malaria, nearly half of the population is already living in urban areas.\nThere are many challenges to Urban Malaria - including new and highly adaptive vectors, the challenges of social inequity – an issue found in both rural and urban settings and the rapid and often unplanned urbanization in malaria endemic countries. And then, of course, we are dealing with a lack of financial and other resources. \nThe framework is avaliable here: https://www.who.int/publications/i/item/9789240061781",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Human Behavioral Factors in Malaria Transmission</span>"
     ]
   },
   {
@@ -473,6 +528,26 @@
     "text": "Identify the different Plasmodium species that cause malaria in humans and understand their geographical distribution.\nExplain the life cycle of the malaria parasite, highlighting the stages within the human and mosquito hosts.\nUnderstand the role of mosquito hosts in malaria transmission.\nUnderstand the development of naturally acquired immunity to malaria parasites.",
     "crumbs": [
       "The Biology of Malaria"
+    ]
+  },
+  {
+    "objectID": "topic3-intro.html",
+    "href": "topic3-intro.html",
+    "title": "Malaria Transmission",
+    "section": "",
+    "text": "Learning objectives",
+    "crumbs": [
+      "Malaria Transmission"
+    ]
+  },
+  {
+    "objectID": "topic3-intro.html#learning-objectives",
+    "href": "topic3-intro.html#learning-objectives",
+    "title": "Malaria Transmission",
+    "section": "",
+    "text": "Identify the key Anopheles mosquito species responsible for malaria transmission and understand their role in the transmission process.\nDescribe how environmental factors like temperature, rainfall, and humidity influence malaria transmission.\nRecognize the impact of human behaviors, including agriculture, migration, and urbanization, on malaria transmission.\nExplain the malaria transmission cycle and the concept of the basic reproduction number (R0).\nUnderstand the concept of heterogeneity in malaria transmission and its implications for control efforts.\nApply knowledge of malaria transmission to propose effective malaria control strategies.",
+    "crumbs": [
+      "Malaria Transmission"
     ]
   }
 ]
