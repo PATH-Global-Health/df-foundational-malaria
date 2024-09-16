@@ -20,7 +20,7 @@ book:
     - topic3a-anopheles-trans.qmd
     - topic3b-environment-and-transmission.qmd
     - topic3c-human-behaviour.qmd
-    - topid3d-measuring-transmission.qmd
+    - topic3d-measuring-transmission.qmd
 
 
 bibliography: references.bib
