@@ -491,6 +491,105 @@
     ]
   },
   {
+    "objectID": "topic3d-measuring-transmission.html",
+    "href": "topic3d-measuring-transmission.html",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "",
+    "text": "10.1 Entomological Inoculation Rate (EIR)\nThe Entomological Inoculation Rate (EIR) is one of the most widely used metrics to measure malaria transmission. EIR represents the number of infective mosquito bites a person receives over a specific time period, usually expressed as bites per person per year.",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#entomological-inoculation-rate-eir",
+    "href": "topic3d-measuring-transmission.html#entomological-inoculation-rate-eir",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "",
+    "text": "Calculation of EIR: EIR is calculated as the product of the human biting rate (the number of bites per person per year) and the sporozoite rate (the proportion of mosquitos with sporozoites in their salivary glands)\n\nHuman biting rates are estimated by catching and counting the number of mosquitos that attempt to feed on a human, and the sporozite rate it found by examining those mosquitos for the presence of sporozoites.\nExample: If a person receives 10 mosquito bites per night, and 1% of mosquitoes are infected with Plasmodium sporozoites, the EIR would be 36.5 infective bites per year.\n\nImportance of EIR: EIR provides a direct measure of the intensity of malaria transmission in a given area. Higher EIRs indicate more intense transmission, often seen in areas with dense mosquito populations and favorable environmental conditions for breeding. While considered one of the mainstays in quantifying malaria transmission, measuring the EIR is time consuming and costly, requiring intensive and repeated measures throughout the year and large sample sizes.\n\n\n\n\n\n\n\nExamples in the literature\n\n\n\n\nAn estimation of the entomological inoculation rate for Ifakara: a semi-urban area in a region of intense malaria transmission in Tanzania\nIdentifying Plasmodium falciparum transmission patterns through parasite prevalence and entomological inoculation rate",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#force-of-infection",
+    "href": "topic3d-measuring-transmission.html#force-of-infection",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.2 Force of Infection",
+    "text": "10.2 Force of Infection\nWhile the EIR measures the average number of infectious bites per year, not every infectious bite results in clinical malaria, the force of infection (FOI) is defined as the number of infections per person per unit time and counts all new human malaria infections in some time interval with or without clinical symptoms, and whether or not a person is already infected. It provides a measure of the likelihood of someone becoming infected over a specific time period.\n\nThe number of infectious bites that actually progress to malaria per unit of time describes the efficiency of transmission and can be estimated as FOI/EIR.\nThe FOI is often quantified using transmission models of malaria but can also be estimated from cohort studies.\nAnother method of measuring the FOI is using serological markers of malaria infection. Antibody measurements in exposed populations can be used to estimate the seroconversion rate which is defined as the rate at which individuals become seropositive.\n\n\n\n\n\n\n\nExamples in the Literature\n\n\n\n\nA quantitative analysis of transmission efficiency versus intensity for malaria\nThe Garki project: research on the epidemiology and control of malaria in the Sudan savanna of West Africa by L. Molineaux and G. Gramiccia\nEstimating age-time-dependent malaria force of infection accounting for unobserved heterogeneity\nForce of infection is key to understanding the epidemiology of Plasmodium falciparum malaria in Papua New Guinean children\nThe Dynamics of Natural Plasmodium falciparum Infections",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#serological-markers",
+    "href": "topic3d-measuring-transmission.html#serological-markers",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.3 Serological Markers",
+    "text": "10.3 Serological Markers\nSerological markers measure antibodies in blood samples to detect past exposure to malaria parasites. Serological surveys can provide insights into cumulative exposure and historical transmission patterns in a population.\n\nUse in Low-Transmission Settings: In areas where clinical cases are rare, serological surveys can help detect transmission trends that may not be visible through case incidence alone. These markers are particularly useful for identifying areas of low but persistent transmission.\nMonitoring Transmission: Serological data can be used to track reductions in exposure over time, serving as an indicator of the long-term success of malaria control efforts.\n\n\n\n\n\n\n\nExamples in the literature\n\n\n\n\nEstimating medium- and long-term trends in malaria transmission by using serological markers of malaria exposure\nEstimating malaria transmission intensity from Plasmodium falciparum serological data using antibody density models\nSero-epidemiological evaluation of malaria transmission in The Gambia before and after mass drug administration",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#parasite-prevalence-rate",
+    "href": "topic3d-measuring-transmission.html#parasite-prevalence-rate",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.4 Parasite Prevalence Rate",
+    "text": "10.4 Parasite Prevalence Rate\nA further mainstay of malaria transmission metrics is the parasite prevalence rate (PfPR) defined as the proportion of a population infected with malaria. This is measured through cross-sectional surveys and is widely collected (e.g. in DHS and MIS surveys). It is important to note that the method of parasite detection (microscopy or polymerase chain reaction (PCR) testing) will influence the estimate the parasite prevalence.\nParasite prevalence rates measure the burden of both asymptomatic and symptomatic malaria infections at a specific period in time. Parasite prevalence rates have been crucial for mapping global malaria burden reductions and tracking declines in malaria over time.\n\nUse of PR: PR is crucial for detecting asymptomatic carriers who can continue to transmit malaria. It also provides a snapshot of the overall burden of malaria in a population, allowing for the identification of transmission hotspots.\nApplication in Control Programs: PR is used to track trends in infection rates over time, assess the success of interventions, and monitor areas at risk of resurgence.\n\n\n\n\n\n\n\nExamples from the literature\n\n\n\n\nSubmicroscopic Infection in Plasmodium falciparum-Endemic Populations: A Systematic Review and Meta-Analysis\nEstimating malaria parasite prevalence from community surveys in Uganda: a comparison of microscopy, rapid diagnostic tests and polymerase chain reaction",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#clinical-malaria-incidence",
+    "href": "topic3d-measuring-transmission.html#clinical-malaria-incidence",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.5 Clinical Malaria Incidence",
+    "text": "10.5 Clinical Malaria Incidence\nMeasurements of clinical malaria incidence, defined as the number of clinical malaria episodes (usually defined as fever plus parasite density above a given threshold) per population over a given time period instead captures a direct measure of disease burden. Clinical malaria incidence can be measured by active or passive case detection or indirectly estimated using other routine health information data.\nIn addition to clinical malaria incidence, measurements of severe malaria at the population level can be determined as the number of severe cases per person year at risk, but is often measured via the number of cases presenting to the hospital. This can be biased by differential levels of access to care and differences in diagnosis of severe malaria.\n\nImportance of Incidence: Monitoring the incidence of clinical malaria provides direct information on the burden of symptomatic disease. This metric is particularly important for understanding the impact of malaria on public health and healthcare systems.\nApplication in Elimination Programs: In areas aiming for malaria elimination, reductions in clinical malaria incidence are a critical indicator of progress. A low incidence rate suggests that transmission is being controlled effectively.\n\n\n\n\n\n\n\nExamples from the literature\n\n\n\n\nDefining clinical malaria: the specificity and incidence of endpoints from active and passive surveillance of children in rural Kenya\nThe global distribution of clinical episodes of Plasmodium falciparum malaria\nEstimating malaria incidence from routine health facility-based surveillance data in Uganda\nUsing ante-natal clinic prevalence data to monitor temporal changes in malaria incidence in a humanitarian setting in the Democratic Republic of Congo\nObservational study: 27 years of severe malaria surveillance in Kilifi, Kenya",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#entomological-measures",
+    "href": "topic3d-measuring-transmission.html#entomological-measures",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.6 Entomological measures",
+    "text": "10.6 Entomological measures\nA number of metrics derived from entomological data on vector behaviour are also of importance for measuring malaria transmission.\n\nVectoral capacity: Vectoral capacity describes the potential intensity of transmission by malaria vectors and is defined as the expected number of infectious bites that could eventually arise assuming perfect efficiency of transmission from all mosquito bites on a single human on a single day\n\nImportance of Vectorial Capacity: This metric helps estimate the transmission potential of a mosquito population. It can be used to predict how environmental or behavioral changes (such as increased mosquito populations or changes in feeding behavior) might impact malaria transmission.\nUse in Planning Interventions: Vectorial capacity helps in designing effective control strategies, such as vector control programs, by identifying areas where mosquito populations are most likely to sustain transmission.\n\nStability index: The stability index provides a measure of the capacity of the environment to sustain malaria transmission and is defined as the number of human bites taken over the course of a vector’s lifetime\n\n\n\n\n\n\n\nExamples from the Literature\n\n\n\n\nVectorial capacity and vector control: reconsidering sensitivity to parameters for malaria elimination\nA global index representing the stability of malaria transmission\nStatics and dynamics of malaria infection in Anopheles mosquitoes",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#basic-reporoduction-number-r0-and-real-time-reproduction-number-rt",
+    "href": "topic3d-measuring-transmission.html#basic-reporoduction-number-r0-and-real-time-reproduction-number-rt",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.7 Basic Reporoduction Number (R0) and Real-Time Reproduction Number (Rt)",
+    "text": "10.7 Basic Reporoduction Number (R0) and Real-Time Reproduction Number (Rt)\nThe basic reproduction number (R0) is a theoretical metric used to estimate how many secondary cases are generated by a single malaria infection in a fully susceptible population. The real-time reproduction number (Rt) measures the effective transmission in a population at a given moment, accounting for interventions and immunity.\n\nUse of R0 and Rt: R0 provides an understanding of transmission potential in a new or susceptible population, while Rt reflects current transmission dynamics.\n\nR0 &gt; 1: Transmission will continue to increase.\nR0 &lt; 1: Transmission will eventually die out, as there are not enough new cases being generated to sustain transmission.\n\nTarget for Control Programs: The goal of malaria elimination programs is to reduce R0 to below 1, which indicates that transmission is no longer self-sustaining.\n\n\n\n\n\n\n\nExamples from the literature\n\n\n\n\nRevisiting the Basic Reproductive Number for Malaria and Its Implications for Malaria Control\nIs a reproduction number of one a threshold for Plasmodium falciparum malaria elimination?\nEstimating spatiotemporally varying malaria reproduction numbers in a near elimination setting\nUnderstanding the effective reproduction number of Plasmodium falciparum malaria with seasonal variation at sub-national level in Nigeria",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
+    "objectID": "topic3d-measuring-transmission.html#heterogeneity-in-transmission",
+    "href": "topic3d-measuring-transmission.html#heterogeneity-in-transmission",
+    "title": "10  Measuring Malaria Transmission Dynamics",
+    "section": "10.8 Heterogeneity in Transmission",
+    "text": "10.8 Heterogeneity in Transmission\nWhen thinking about malaria transmission intensity, it is important to consider the variation in transmission. Heterogeneity in malaria transmission exists across all spatial scales, from differences within households to continental geographic variation. Large-scale geographic variation in transmission is primarily driven by climatic and environmental factors including temperature, altitude, land-use and urbanicity and the impact that these have on vector and parasite survival and breeding site availability, for example.\nOn a smaller scale, heterogeneity within communities can be driven by proximity to breeding sites, housing quality and host availability through the ownership and use of bed-nets, and attractiveness to mosquitos. In addition, we also observe substantial temporal variation in malaria transmission which results from seasonal climate patterns, particularly rainfall, with transmission peaking during the rainy season and lowest during the dry season.\nAdditionally, as mentioned above not all infectious mosquito bites result in blood-stage infection, and factors that impact the efficiency of a mosquito bite including immunity and heterogeneity in mosquito biting are also important determinants in the heterogeneity of malaria transmission.\n\n\n\n\n\n\nExamples from the literature\n\n\n\n\nUrban malaria in sub-Saharan Africa: dynamic of the vectorial system and the entomological inoculation rate\nModelling the global constraints of temperature on transmission of Plasmodium falciparum and P. vivax\nEstimating Air Temperature and Its Influence on Malaria Transmission across Africa\nExploring agricultural land-use and childhood malaria associations in sub-Saharan Africa\nRelationship Between Altitude and Intensity of Malaria Transmission in the Usambara Mountains, Tanzania\nThe Risk of a Mosquito-Borne Infection in a Heterogeneous Environment\nFactors Determining the Heterogeneity of Malaria Incidence in Children in Kampala, Uganda.\nHousing Improvements and Malaria Risk in Sub-Saharan Africa: A Multi-Country Analysis of Survey Data\nInsecticidetreated net (ITN) ownership, usage, and malaria transmission in the highlands of western Kenya.\nNonrandom Selection and Multiple Blood Feeding of Human Hosts by Anopheles Vectors: Implications for Malaria Transmission in Papua New Guinea",
+    "crumbs": [
+      "Malaria Transmission",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Measuring Malaria Transmission Dynamics</span>"
+    ]
+  },
+  {
     "objectID": "topic1-intro.html",
     "href": "topic1-intro.html",
     "title": "Introduction to Malaria",
