@@ -59,4 +59,3 @@ Below is a great lecture by Professor Kevin Marsh that describes how knowledge o
 Watch this for a great overview to a very complex topic!
 
 {{< video https://www.youtube.com/embed/bJ6nS-I-HiM >}}
-
