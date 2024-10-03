@@ -10,6 +10,10 @@ Interactive maps, such as those provided by the [Malaria Atlas Project](https://
 <iframe src="https://data.malariaatlas.org/maps?layers=Malaria:202406_Global_Pf_Parasite_Rate" style="border:none; height:600px;"></iframe>
 :::
 
+::: {.column-screen}
+![A full screen image](figures/lifecycle.png)
+:::
+
 ## High-Risk Populations
 
 Certain populations are at higher risk of contracting malaria. These include:

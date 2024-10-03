@@ -57,15 +57,5 @@ div.sidebar-item-container .active {
   font-weight: bold;
 }
 
-.full-width-iframe-container {
-    width: 100vw; /* Full viewport width */
-    margin-left: calc(-50vw + 50%); /* Center it on the page */
-}
-
-.main-container {
-    max-width: 100%; /* Override default max-width */
-    padding-left: 0;
-    padding-right: 0;
-}
 
 /*-- scss:rules --*/
