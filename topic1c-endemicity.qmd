@@ -8,10 +8,8 @@ Interactive maps, such as those provided by the [Malaria Atlas Project](https://
 
 ```{=html}
 <div class="full-width-iframe-container">
-    <iframe src="https://data.malariaatlas.org/maps?layers=Malaria:202406_Global_Pf_Parasite_Rate" style="border:none; width:100vw; height:600px;"></iframe>
+<iframe src="https://data.malariaatlas.org/maps?layers=Malaria:202406_Global_Pf_Parasite_Rate"></iframe>
 </div>
-
-
 ```
 ## High-Risk Populations
 
@@ -31,4 +29,16 @@ Malaria transmission varies seasonally, with peaks often corresponding to rainy 
 
 For instance, in Sub-Saharan Africa, malaria transmission intensifies during and after the rainy season, while in some parts of Asia and Latin America, transmission can occur year-round but peaks during specific months.
 
-## Global Statistics 
+## Global Statistics
+
+Each year the World Malaria Report published by the WHO provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe.
+
+According to the [2023 World Malaria Report](https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2023) Globally in 2022, there were an estimated 249 million malaria cases in 85 malaria endemic countries and areas, an increase of 5 million cases compared with 2021. The main countries contributing to the increase were Pakistan (+2.1 million), Ethiopia (+1.3 million), Nigeria (+1.3 million), Uganda (+597 000) and Papua New Guinea (+423 000). In 2015, the baseline year of the Global technical strategy for malaria 2016--2030 (GTS), there were an estimated 231 million malaria cases.
+
+Malaria case incidence declined from 81 per 1000 population at risk in 2000 to 57 in 2019. Following a small
+increase of 3% in 2020, incidence rates have remained stable over the past 3 years. In 2022, malaria case
+incidence was 58 per 1000 population at risk.
+
+Twenty-nine countries accounted for 95% of malaria cases globally. Globally the WHO Africa Region carries a disproportionately high burden of malaria and inndefined and four countries -- Nigeria (27%), the Democratic Republic of the Congo (12%), Uganda (5%) and Mozambique (4%) -- accounted for almost half of all cases globally and The WHO African Region, with an estimated 233 million cases in 2022, accounted for about 94% of cases globally.
+
+Children under five years of age are particularly vulnerable to malaria and around 77% of global malaria deaths occurred in this age group, predominantly in SSA. About 96% of malaria deaths globally were in 29 countries. Four countries accounted for just over half of all malaria deaths globally in 2022 -- Nigeria (31%), the Democratic Republic of the Congo (12%), Niger (6%) and the United Republic of Tanzania (4%).
