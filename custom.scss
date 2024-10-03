@@ -57,5 +57,10 @@ div.sidebar-item-container .active {
   font-weight: bold;
 }
 
+.full-width-iframe {
+    width: 100vw;  /* Full viewport width */
+    max-width: 100vw;
+    margin-left: calc(-50vw + 50%);  /* Center it */
+}
 
 /*-- scss:rules --*/
