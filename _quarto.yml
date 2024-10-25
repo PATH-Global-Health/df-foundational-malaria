@@ -25,8 +25,11 @@ book:
     chapters: 
     - topic4a-diagnostic-methods.qmd
     - topic4b-treatment.qmd
-    # - topic3c-human-behaviour.qmd
-    # - topic3d-measuring-transmission.qmd
+    - topic4c-drug-resistance.qmd
+    - topic4d-video-lecture.qmd
+  - part: topic5-intro.qmd
+
+
     
 
 
