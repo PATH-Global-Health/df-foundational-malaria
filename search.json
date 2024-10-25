@@ -14,7 +14,7 @@
     "href": "index.html#schedule",
     "title": "Foundational Malaria Knowledge",
     "section": "Schedule",
-    "text": "Schedule\nAs a reminder, this module is self-directed learning through a set of chapters in this book and associated short quizzes.\nWe will meet as a team on [INSERT DATE] to discuss module content, check through quizzes, and answer any questions.",
+    "text": "Schedule\nAs a reminder, this module is self-directed learning through a set of chapters in this book.",
     "crumbs": [
       "Introduction"
     ]
@@ -25,16 +25,6 @@
     "title": "Foundational Malaria Knowledge",
     "section": "Module Objectives",
     "text": "Module Objectives\n\nUnderstand the basic biology of malaria and the malaria parasite.\nLearn about the epidemiology and global impact of malaria.\nGain insights into malaria transmission, life cycle, and vectors.\nExplore malaria diagnosis, treatment, and prevention strategies.\nRecognize the importance of surveillance, data collection, and analysis in malaria control efforts.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "index.html#module-topics",
-    "href": "index.html#module-topics",
-    "title": "Foundational Malaria Knowledge",
-    "section": "Module Topics",
-    "text": "Module Topics\n\nIntroduction to Malaria\nThe Biology of Malaria\nEpidemiology of Malaria\nMalaria Transmission\nDiagnosis and Treatment\nPrevention and Control\nSurveillance and Data Analysis\nCurrent Challenges and Future Directions",
     "crumbs": [
       "Introduction"
     ]
@@ -601,6 +591,83 @@
     ]
   },
   {
+    "objectID": "topic4a-diagnostic-methods.html",
+    "href": "topic4a-diagnostic-methods.html",
+    "title": "11  Diagnostic Methods",
+    "section": "",
+    "text": "11.1 Microscopy",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diagnostic Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic4a-diagnostic-methods.html#microscopy",
+    "href": "topic4a-diagnostic-methods.html#microscopy",
+    "title": "11  Diagnostic Methods",
+    "section": "",
+    "text": "Process:\n\nThin and thick blood smears are prepared and stained with Giemsa or Field’s stain.\nA trained microscopist examines the slides under a microscope to identify parasites and count parasite density.\n\nAdvantages:\n\nHigh sensitivity and specificity in experienced hands.\nAllows for identification of all Plasmodium species and quantification of parasite load, crucial for monitoring severe malaria.\n\nLimitations:\n\nRequires skilled personnel and a well-maintained laboratory.\nCan be time-consuming",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diagnostic Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic4a-diagnostic-methods.html#rapid-diagnostic-tests-rdts",
+    "href": "topic4a-diagnostic-methods.html#rapid-diagnostic-tests-rdts",
+    "title": "11  Diagnostic Methods",
+    "section": "11.2 Rapid Diagnostic Tests (RDTs)",
+    "text": "11.2 Rapid Diagnostic Tests (RDTs)\n\nProcess:\n\nA small drop of blood is placed on an RDT strip, which reacts with malaria antigens. A color change indicates a positive or negative result.\nCommon targets include Histidine-Rich Protein 2 (HRP2) for Plasmodium falciparum and Plasmodium-specific lactate dehydrogenase (pLDH) for other species.\n\nAdvantages:\n\nFast results (15-20 minutes) without the need for advanced laboratory infrastructure.\nEasy to use, making it ideal for community health workers and remote clinics.\n\nLimitations:\n\nSensitivity may decline with low parasite densities or HRP2 gene deletions in P. falciparum.\nCannot provide parasite counts or differentiate between some malaria species effectively.",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diagnostic Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic4a-diagnostic-methods.html#molecular-techniques-e.g.-pcr",
+    "href": "topic4a-diagnostic-methods.html#molecular-techniques-e.g.-pcr",
+    "title": "11  Diagnostic Methods",
+    "section": "11.3 Molecular Techniques (e.g., PCR)",
+    "text": "11.3 Molecular Techniques (e.g., PCR)\n\nProcess:\n\nPolymerase Chain Reaction (PCR) amplifies the DNA of malaria parasites to confirm the presence of the infection. Other molecular methods include Loop-Mediated Isothermal Amplification (LAMP).\n\nAdvantages:\n\nHighly sensitive and specific, able to detect mixed infections and low-level parasitemia.\nUseful for surveillance, especially in elimination settings where infections are rare but need to be identified precisely.\n\nLimitations:\n\nRequires specialized equipment and trained personnel, making it unsuitable for most routine clinical settings.\nHigher cost compared to microscopy and RDTs.",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Diagnostic Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic4b-treatment.html",
+    "href": "topic4b-treatment.html",
+    "title": "12  Treatment Protocols",
+    "section": "",
+    "text": "12.1 Uncomplicated malaria\nPatients who have uncomplicated malaria can usually be treated on an outpatient basis; however, patients with severe malaria should be hospitalized.\nThe medications recommended for treatment of uncomplicated malaria cases are active against the parasite forms in the blood (the forms that cause disease). The World Health Organization (WHO) recommends the use of artemisinin-based combination therapies (e.g., artemether-lumefantrine or dihydroartemisinin-piperaquine) for the treatment of uncomplicated malaria to prevent or delay the development of antimalarial resistance. WHO recently expanded the recommendation for Artemisinin-based combination therapy, or ACT, use to include infants less than five kilograms bodyweight and all pregnant women, even those in the first trimester. Artemether-lumefantrine is the preferred option for use in the first trimester of pregnancy.",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Treatment Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "topic4b-treatment.html#uncomplicated-malaria",
+    "href": "topic4b-treatment.html#uncomplicated-malaria",
+    "title": "12  Treatment Protocols",
+    "section": "",
+    "text": "WHO’s Consolidated guidelines for malaria",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Treatment Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "topic4b-treatment.html#severe-malaria",
+    "href": "topic4b-treatment.html#severe-malaria",
+    "title": "12  Treatment Protocols",
+    "section": "12.2 Severe malaria",
+    "text": "12.2 Severe malaria\nSevere malaria occurs when an infection is complicated by serious organ failure or abnormalities in the patient’s blood or metabolism.\nPatients who have severe P. falciparum malaria or who cannot take oral medications should be treated with parenteral medications in a hospital. The World Health Organization recommends parenteral artesunate for treatment of severe P. falciparum malaria in both adults and children, including pregnant women in all trimesters and lactating women. If artesunate is not available, parenteral artemether should be used in preference to quinine for the treatment of severe malaria. Intravenous treatment for severe malaria should be followed by a complete course of an oral ACT.\nSome malaria-endemic countries recommend pre-referral treatment with artesunate be given by suppository or injection before a severely ill patient is referred to a hospital for definitive care.\n\nWHO case management information pages",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Treatment Protocols</span>"
+    ]
+  },
+  {
     "objectID": "topic1-intro.html",
     "href": "topic1-intro.html",
     "title": "Introduction to Malaria",
@@ -658,6 +725,26 @@
     "text": "Identify the key Anopheles mosquito species responsible for malaria transmission and understand their role in the transmission process.\nDescribe how environmental factors like temperature, rainfall, and humidity influence malaria transmission.\nRecognize the impact of human behaviors, including agriculture, migration, and urbanization, on malaria transmission.\nExplain the malaria transmission cycle and the concept of the basic reproduction number (R0).\nUnderstand the concept of heterogeneity in malaria transmission and its implications for control efforts.\nApply knowledge of malaria transmission to propose effective malaria control strategies.",
     "crumbs": [
       "Malaria Transmission"
+    ]
+  },
+  {
+    "objectID": "topic4-intro.html",
+    "href": "topic4-intro.html",
+    "title": "Malaria Diagnosis and Treatment",
+    "section": "",
+    "text": "Learning Objectives",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment"
+    ]
+  },
+  {
+    "objectID": "topic4-intro.html#learning-objectives",
+    "href": "topic4-intro.html#learning-objectives",
+    "title": "Malaria Diagnosis and Treatment",
+    "section": "",
+    "text": "Compare microscopy, rapid diagnostic tests (RDTs), and molecular techniques for malaria detection.\nIdentify when and where to use each diagnostic tool based on context and resources.\nDescribe the recommended first-line treatments for uncomplicated and severe malaria.\nIdentify common antimalarial drugs and their mechanisms of action.\nExplain treatment considerations for special populations (e.g., pregnant women, infants).\nRecognize the emergence and impact of drug resistance on malaria control.\nExplore strategies to manage and prevent resistance.\nUnderstand challenges in ensuring equitable access to diagnostics and treatment.",
+    "crumbs": [
+      "Malaria Diagnosis and Treatment"
     ]
   }
 ]
