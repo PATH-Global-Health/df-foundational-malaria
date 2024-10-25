@@ -1,0 +1,18 @@
+# Malaria Diagnosis and Treatment
+
+Effective **diagnosis** and **treatment** are essential aspects of malaria control programs. Accurate diagnosis ensures that patients receive appropriate care, preventing the overuse of antimalarial drugs and improving treatment outcomes. Timely and correct treatment not only saves lives but also reduces the spread of drug resistance.
+
+This chapter will explore the key **diagnostic methods**---microscopy, rapid diagnostic tests (RDTs), and molecular techniques---and the situations in which they are most effective. We will also review the **treatment protocols** for both uncomplicated and severe malaria, focusing on first-line therapies and considerations for special populations, such as children and pregnant women.
+
+Finally, the chapter addresses the growing challenge of **drug resistance** and the strategies required to mitigate its impact. By understanding the latest diagnostic tools, treatment protocols, and resistance management approaches, participants will gain practical insights essential for improving malaria case management in diverse settings.
+
+## Learning Objectives
+
+-   Compare microscopy, rapid diagnostic tests (RDTs), and molecular techniques for malaria detection.
+-   Identify when and where to use each diagnostic tool based on context and resources.
+-   Describe the recommended first-line treatments for uncomplicated and severe malaria.
+-   Identify common antimalarial drugs and their mechanisms of action.
+-   Explain treatment considerations for special populations (e.g., pregnant women, infants).
+-   Recognize the emergence and impact of drug resistance on malaria control.
+-   Explore strategies to manage and prevent resistance.
+-   Understand challenges in ensuring equitable access to diagnostics and treatment.

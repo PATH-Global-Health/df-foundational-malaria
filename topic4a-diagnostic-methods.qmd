@@ -1,0 +1,65 @@
+---
+title: "Diagnostic Methods"
+---
+
+Accurate and timely diagnosis is essential in malaria case management to ensure that patients receive the correct treatment, improve health outcomes, and reduce unnecessary antimalarial use. When a patient with fever presents to a health facility, a health worker may suspect malaria based on the patient's symptoms. However, these symptoms are similar to those seen with many other diseases, making accurate clinical diagnosis difficult. For many years, national malaria programs recommended treating patients for malaria based on symptoms alone, because most health facilities did not have the equipment and trained staff to perform laboratory tests. Malaria was extremely common and potentially fatal, and providing treatment based on clinical diagnosis alone could save lives.
+
+In 2010, the World Health Organization recommended confirming all suspected cases of malaria with a diagnostic test prior to treatment. In the subsequent years, national malaria programs in endemic areas have continued to expand access to Rapid Diagnostic Tests (RDTs) and high-quality microscopy services for malaria in health facilities. In addition, community health workers (CHWs) in many countries have received training on integrated community case management of common childhood illnesses, including malaria, pneumonia, and diarrhea. Many CHWs are now able to use RDTs for febrile patients and to treat them with recommended antimalarials if they are positive.
+
+## Microscopy
+
+-   **Process:**
+
+    -   Thin and thick blood smears are prepared and stained with Giemsa or Field's stain.
+
+    -   A trained microscopist examines the slides under a microscope to identify parasites and count parasite density.
+
+-   **Advantages:**
+
+    -   **High sensitivity and specificity** in experienced hands.
+
+    -   Allows for identification of **all Plasmodium species** and quantification of parasite load, crucial for monitoring severe malaria.
+
+-   **Limitations:**
+
+    -   Requires **skilled personnel** and a well-maintained laboratory.
+
+    -   Can be **time-consuming**
+
+## Rapid Diagnostic Tests (RDTs)
+
+-   **Process:**
+
+    -   A small drop of blood is placed on an RDT strip, which reacts with malaria antigens. A color change indicates a positive or negative result.
+
+    -   Common targets include **Histidine-Rich Protein 2 (HRP2)** for *Plasmodium falciparum* and **Plasmodium-specific lactate dehydrogenase (pLDH)** for other species.
+
+-   **Advantages:**
+
+    -   **Fast** results (15-20 minutes) without the need for advanced laboratory infrastructure.
+
+    -   Easy to use, making it ideal for **community health workers** and remote clinics.
+
+-   **Limitations:**
+
+    -   Sensitivity may decline with **low parasite densities** or **HRP2 gene deletions** in *P. falciparum*.
+
+    -   Cannot provide **parasite counts** or differentiate between some malaria species effectively.
+
+## Molecular Techniques (e.g., PCR)
+
+-   **Process:**
+
+    -   Polymerase Chain Reaction (PCR) amplifies the DNA of malaria parasites to confirm the presence of the infection. Other molecular methods include **Loop-Mediated Isothermal Amplification (LAMP)**.
+
+-   **Advantages:**
+
+    -   **Highly sensitive and specific**, able to detect mixed infections and low-level parasitemia.
+
+    -   Useful for **surveillance**, especially in elimination settings where infections are rare but need to be identified precisely.
+
+-   **Limitations:**
+
+    -   Requires **specialized equipment** and trained personnel, making it unsuitable for most routine clinical settings.
+
+    -   Higher **cost** compared to microscopy and RDTs.

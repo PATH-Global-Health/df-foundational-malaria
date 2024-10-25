@@ -21,6 +21,13 @@ book:
     - topic3b-environment-and-transmission.qmd
     - topic3c-human-behaviour.qmd
     - topic3d-measuring-transmission.qmd
+  - part: topic4-intro.qmd
+    chapters: 
+    - topic4a-diagnostic-methods.qmd
+    - topic4b-treatment.qmd
+    # - topic3c-human-behaviour.qmd
+    # - topic3d-measuring-transmission.qmd
+    
 
 
 bibliography: references.bib

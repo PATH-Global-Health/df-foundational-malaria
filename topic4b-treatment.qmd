@@ -1,0 +1,39 @@
+---
+title: "Treatment Protocols"
+---
+
+The World Health Organization recommends treating patients with malaria within 24 -- 48 hours after their first symptoms appear. Treatment of a patient with malaria should follow the country's national guidelines, which typically take the following into consideration:
+
+-   Type (species) of the infecting parasite
+
+-   Clinical status of the patient
+
+-   Accompanying illness(es) or condition(s)
+
+-   Pregnancy status
+
+-   Drug allergies, and other medications taken by the patient
+
+-   Where the infection was acquired and the presence of antimalarial drug resistance.
+
+## Uncomplicated malaria
+
+Patients who have uncomplicated malaria can usually be treated on an outpatient basis; however, patients with severe malaria should be hospitalized.
+
+The medications recommended for treatment of uncomplicated malaria cases are active against the parasite forms in the blood (the forms that cause disease). The World Health Organization (WHO) recommends the use of artemisinin-based combination therapies (e.g., artemether-lumefantrine or dihydroartemisinin-piperaquine) for the treatment of uncomplicated malaria to prevent or delay the development of antimalarial resistance. WHO recently expanded the recommendation for Artemisinin-based combination therapy, or ACT, use to include infants less than five kilograms bodyweight and all pregnant women, even those in the first trimester. Artemether-lumefantrine is the preferred option for use in the first trimester of pregnancy.
+
+::: Resource
+[WHO's Consolidated guidelines for malaria](https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria)
+:::
+
+## Severe malaria
+
+Severe malaria occurs when an infection is complicated by serious organ failure or abnormalities in the patient's blood or metabolism.
+
+Patients who have severe P. falciparum malaria or who cannot take oral medications should be treated with parenteral medications in a hospital. The World Health Organization recommends parenteral artesunate for treatment of severe P. falciparum malaria in both adults and children, including pregnant women in all trimesters and lactating women. If artesunate is not available, parenteral artemether should be used in preference to quinine for the treatment of severe malaria. Intravenous treatment for severe malaria should be followed by a complete course of an oral ACT.
+
+Some malaria-endemic countries recommend pre-referral treatment with artesunate be given by suppository or injection before a severely ill patient is referred to a hospital for definitive care.
+
+::: Resource
+[WHO case management information pages](https://www.who.int/teams/global-malaria-programme/case-management)
+:::
