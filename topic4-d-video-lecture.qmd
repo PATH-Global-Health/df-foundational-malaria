@@ -2,6 +2,6 @@
 title: "Malaria Meds: a MasterClass with Profs. Timothy Wells, Pierre Hugo, George Jagoe & Abdoulaye Djimde"
 ---
 
-A great talk on Malaria Treatment and Diagnosis from the Ifakara Heallth Institue
+A great talk on Malaria Treatment and Diagnosis from the Ifakara Heallth Institue on all of the topics covered in this chapter.
 
 {{< video https://www.youtube.com/watch?v=YJQee6MSPTQ&ab_channel=IfakaraHealthInstitute%28IFAKARA%29 >}}

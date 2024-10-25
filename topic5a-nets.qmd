@@ -1,0 +1,43 @@
+---
+title: "Insecticide Treated Nets"
+---
+
+**Insecticide-Treated Nets (ITNs)** are one of the most effective and widely used tools in malaria prevention. By protecting individuals from mosquito bites at night---the peak biting time for Anopheles mosquitoes---ITNs reduce both infections and overall transmission.
+
+**Types of ITNs:**
+
+-   **Conventional ITNs:** Treated with insecticides that remain effective for several washes.
+
+-   **Long-Lasting Insecticidal Nets (LLINs):** These retain their effectiveness for at least 3 years and multiple washes without re-treatment.
+
+**How ITNs Work:**
+
+-   ITNs act as both a **physical barrier** and a **chemical deterrent**.
+
+-   When mosquitoes come into contact with the net, they are either **repelled** or **killed** by the insecticide.
+
+**Impact of ITNs on Malaria Transmission:**
+
+-   Studies show that widespread ITN use can reduce child mortality by **20%** and malaria incidence by **50%**.
+
+-   ITNs are most effective when **at least 80% of the population** in a given area uses them regularly.
+
+::: Net Impact
+
+A 2015 [paper](10.1038/nature15535) estimated that almost 68% of the reduction in malaria burden between 2000-2015 can be attributed to the widespread adoption of ITNs.
+
+:::
+
+**Challenges and Limitations:**
+
+-   **Insecticide resistance**: Some mosquito populations have become resistant to pyrethroids, the main insecticide used in ITNs.
+
+-   **Net distribution and usage gaps**: Not all households receive enough nets, people don't always use when in bed, and some may use them for purposes other than malaria prevention.
+
+**Solutions and Innovations:**
+
+-   Newer **PBO (Piperonyl Butoxide) nets** and **Dual Active Ingredient (Dual-AI) nets** have been developed to counter pyrethroid resistance.
+
+-   **Mass net distribution campaigns** and regular **monitoring** are essential to maintaining coverage.
+
+{{< video https://www.youtube.com/watch?v=Y6fA8ViX8c8&ab_channel=IfakaraHealthInstitute%28IFAKARA%29 >}}

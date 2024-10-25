@@ -8,6 +8,12 @@ As a reminder, there are about 500 Anopheles species in the world. However, only
 
 ![Global distribution (Robinson projection) of dominant or potentially important malaria vectors. Sourced from](figures/anopheles-spp-dist-2.png){#fig-spp-dist}
 
+## Vectors of Asia, Africa & the Americas 
+
+A great talk from the Ifakara Health Institute on Malaria Vectors
+
+{{< video https://www.youtube.com/watch?v=_XuBruejjIY&ab_channel=IfakaraHealthInstitute%28IFAKARA%29 >}}
+
 ## Biology and Behavior of Anopheles Mosquitoes
 
 As described in the previous chapter, malaria transmission is primarily driven by the Anopheles mosquito, which acts as the vector for the Plasmodium parasite. The biology and behavior of Anopheles mosquitoes are critical to their efficiency as vectors.

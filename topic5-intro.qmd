@@ -1,0 +1,31 @@
+---
+title: "Prevention and Control"
+---
+
+Prevention and control strategies are essential to reducing malaria transmission and achieving elimination goals. These efforts involve a combination of **vector control**, **chemoprevention**, **vaccines**, and **community-based approaches** to interrupt the life cycle of malaria parasites and protect at-risk populations. This chapter explores key interventions and their role in global malaria control efforts.
+
+Throughout this Chapter we will link to some great talks by leading malaria scientists and public health specialists that were hosted by the Ifakara Health Instiitute.
+
+**Learning Objectives**
+
+-   **Understand Vector Control:**
+
+    -   Explain the role of **ITNs** and **IRS** in reducing malaria transmission.
+
+-   **Apply Chemoprevention and Vaccination:**
+
+    -   Identify target groups for **SMC** and **IPT**.
+
+    -   Describe the benefits and limitations of malaria vaccines like **RTS,S**.
+
+-   **Explore Community-Based Interventions:**
+
+    -   Recognize the role of **CHWs** and **iCCM** in malaria management.
+
+-   **Analyze Challenges:**
+
+    -   Understand the impact of **insecticide and drug resistance** on control efforts.
+
+-   **Evaluate Integrated Approaches:**
+
+    -   Appreciate the value of combining multiple interventions for effective malaria control.

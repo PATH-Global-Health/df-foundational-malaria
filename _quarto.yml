@@ -28,6 +28,9 @@ book:
     - topic4c-drug-resistance.qmd
     - topic4d-video-lecture.qmd
   - part: topic5-intro.qmd
+  chapters: 
+    - topic5a-nets.qmd
+    - topic5b-irs.qmd
 
 
     
