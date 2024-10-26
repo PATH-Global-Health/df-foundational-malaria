@@ -4,38 +4,37 @@ book:
   title: Foundational Malaria Knowledge
   subtitle: MACEPA Data Fellowship - Training Materials
   chapters:
-  - index.qmd
-  - part: topic1-intro.qmd
-    chapters:
-    - topic1a-history-malaria.qmd
-    - topic1b-global-impact.qmd
-    - topic1c-endemicity.qmd
-  - part: topic2-intro.qmd
-    chapters: 
-    - topic2a-plasmodium-spp.qmd
-    - topic2b-lifecycle.qmd
-    - topic2c-immunity.qmd 
-  - part: topic3-intro.qmd
-    chapters: 
-    - topic3a-anopheles-trans.qmd
-    - topic3b-environment-and-transmission.qmd
-    - topic3c-human-behaviour.qmd
-    - topic3d-measuring-transmission.qmd
-  - part: topic4-intro.qmd
-    chapters: 
-    - topic4a-diagnostic-methods.qmd
-    - topic4b-treatment.qmd
-    - topic4c-drug-resistance.qmd
-    - topic4d-video-lecture.qmd
-  - part: topic5-intro.qmd
-  chapters: 
-    - topic5a-nets.qmd
-    - topic5b-irs.qmd
-    - topic5c-chemoprevention.qmd 
-    - topic5d-vaccines.qmd
-    - topic5e-ccm.qmd
-    - topic5e-other.qmd
-    
+    - index.qmd
+    - part: topic1-intro.qmd
+      chapters:
+        - topic1a-history-malaria.qmd
+        - topic1b-global-impact.qmd
+        - topic1c-endemicity.qmd
+    - part: topic2-intro.qmd
+      chapters: 
+        - topic2a-plasmodium-spp.qmd
+        - topic2b-lifecycle.qmd
+        - topic2c-immunity.qmd 
+    - part: topic3-intro.qmd
+      chapters: 
+        - topic3a-anopheles-trans.qmd
+        - topic3b-environment-and-transmission.qmd
+        - topic3c-human-behaviour.qmd
+        - topic3d-measuring-transmission.qmd
+    - part: topic4-intro.qmd
+      chapters: 
+        - topic4a-diagnostic-methods.qmd
+        - topic4b-treatment.qmd
+        - topic4c-drug-resistance.qmd
+        - topic4d-video-lecture.qmd
+    - part: topic5-intro.qmd
+      chapters: 
+        - topic5a-nets.qmd
+        - topic5b-irs.qmd
+        - topic5c-chemoprevention.qmd 
+        - topic5d-vaccines.qmd
+        - topic5e-ccm.qmd
+        - topic5e-other.qmd
 
 
 
