@@ -1,0 +1,29 @@
+---
+title: "Community Based Interventions"
+---
+
+Community engagement is essential to malaria prevention and treatment efforts. **Community health workers (CHWs)** play a vital role in delivering interventions, particularly in remote and underserved areas.
+
+-   **Integrated Community Case Management (iCCM):**
+
+    -   CHWs are trained to **diagnose and treat malaria, pneumonia, and diarrhea** at the community level.
+
+    -   iCCM ensures that children receive **timely treatment** without needing to visit health facilities.
+
+-   **Health Education and Behavior Change Communication (SBCC):**
+
+    -   **Awareness campaigns** promote the use of ITNs and adherence to treatment.
+
+    -   Communities are educated on **environmental management**, such as eliminating mosquito breeding sites.
+
+-   **Community Involvement in Vector Control:**
+
+    -   CHWs help distribute ITNs and participate in **household IRS campaigns**.
+
+    -   Community participation ensures greater acceptance and coverage of interventions.
+
+-   **Challenges:**
+
+    -   CHWs often face **training and resource gaps**, which limit their ability to provide consistent care.
+
+    -   **Sustained funding** is necessary to maintain community-based programs.

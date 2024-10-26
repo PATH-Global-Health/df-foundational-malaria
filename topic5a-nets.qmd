@@ -8,7 +8,7 @@ title: "Insecticide Treated Nets"
 
 -   **Conventional ITNs:** Treated with insecticides that remain effective for several washes.
 
--   **Long-Lasting Insecticidal Nets (LLINs):** These retain their effectiveness for at least 3 years and multiple washes without re-treatment.
+-   **Long-Lasting Insecticidal Nets (LLINs):** These retain their effectiveness for at several years and multiple washes without re-treatment.
 
 **How ITNs Work:**
 
@@ -39,5 +39,7 @@ A 2015 [paper](10.1038/nature15535) estimated that almost 68% of the reduction i
 -   Newer **PBO (Piperonyl Butoxide) nets** and **Dual Active Ingredient (Dual-AI) nets** have been developed to counter pyrethroid resistance.
 
 -   **Mass net distribution campaigns** and regular **monitoring** are essential to maintaining coverage.
+
+**See the video below for an indepth look at ITNs and their use in malaria control.**
 
 {{< video https://www.youtube.com/watch?v=Y6fA8ViX8c8&ab_channel=IfakaraHealthInstitute%28IFAKARA%29 >}}

@@ -1,0 +1,49 @@
+---
+title: "Chemoprevention"
+---
+
+Chemoprevention involves the use of antimalarial drugs to prevent infection in high-risk groups, particularly **young children** and **pregnant women**.
+
+## Intermittent preventive treatment of malaria in pregnant women (IPTp)
+
+Adults who have survived repeated malaria infections throughout their lifetimes usually become partially immune to severe or fatal malaria, though immunity wanes if there is not ongoing exposure to the parasite. However, because of the changes in women's immune systems during pregnancy and the presence of a new organ (the placenta) with new places for parasites to bind, pregnant women are more susceptible to malaria infection than non-pregnant women.
+
+Malaria infection during pregnancy can have adverse effects on both mother and fetus, including maternal anemia, fetal loss, premature delivery, intrauterine growth retardation, and delivery of low birth-weight infants (\<2500 g or \<5.5 pounds), a risk factor for fetal death.
+
+The problems that malaria infection causes differ somewhat by the type of malaria transmission area: stable (high) or unstable (low) transmission.
+
+In high transmission areas, women have developed immunity that generally prevents severe disease; however, the parasite specifically targets the placenta, leading to an increased risk during pregnancy. In these settings, maternal anemia and delivery of low birth-weight infants (\<2500 g or \<5.5 pounds) are frequent complications of malaria. It is a particular problem for women in their first and second pregnancies, for younger women, and for women who are HIV-positive.
+
+In low transmission areas, women generally have developed no immunity to malaria. Malaria infection is more likely to result in severe malaria disease, maternal anemia, premature delivery, or fetal loss.
+
+IPTp entails administration of a curative dose of an effective antimalarial drug (currently sulfadoxine-pyrimethamine) to all HIV-negative pregnant women in areas of moderate to high malaria transmission, without testing whether or not they are infected with the malaria parasite. IPTp should be given at each routine antenatal care visit, starting as early as possible in the second trimester.
+
+An exmaple of IPT-p programs in Kenya is descirbed in this video:
+
+{{< video https://www.youtube.com/watch?v=JaS7h-Q0wGw&ab_channel=PopulationCouncil>}}
+
+## Seasonal Malaria Chemoprevention 
+
+Seasonal malaria chemoprevention (SMC) is the administration of treatment doses of longer-acting antimalarial medications to children at monthly intervals (cycles) in areas of highly seasonal transmission (\~60% of annual cases occurring in four consecutive months) with the aim of maintaining protective drug concentrations in the blood throughout a complete season of peak transmission. WHO first recommended SMC in 2012 based on a pooled analysis of clinical trials that demonstrated up to 70% reduction of uncomplicated malaria among young children during the high-transmission season. The recommendation included monthly treatment with sulfadoxine-pyrimethamine (SP) plus amodiaquine (AQ) to children 3---59 months of age during the period of peak malaria transmission (typically 3---4 monthly cycles) in the Sahel region of Africa where minimal SP and AQ resistance had been found.
+
+In 2022, [WHO SMC guidelines were updated](https://www.who.int/publications/i/item/9789240073692) to include more flexibility in implementation of SMC in moderate to high malaria burden areas with seasonal transmission, based on local epidemiology, transmission patterns or evidence of effectiveness. In addition, WHO updated a field guide for SMC implementation in 2023.
+
+Children less than five years of age are typically targeted for SMC as they are the most vulnerable to serious disease; however, SMC can include older children. Most countries administer SMC via door-to-door campaigns in which a community distributor gives the first day's dose of SP and AQ and the second and third doses of AQ are given by the child's caregiver. Other medications can be considered; however, SMC medications should not include compounds that are used to treat clinical disease in SMC distribution regions. In addition, SMC should not be used in areas where other chemoprevention interventions are being used in the same population (e.g., perennial malaria chemoprevention or mass drug administration).
+
+Since WHO first recommended SMC in 2012, the intervention has scaled up from protecting 0.2 million children per cycle living in two Sahel countries to 49 million children living in 17 countries in sub-Saharan Africa by 2022 (WMR 2023). Post-distribution coverage surveys suggest that this intervention is widely accepted by caregivers. Drug resistance monitoring and systems to evaluate the protective effect of SMC under programmatic conditions at the population level should be supported.
+
+**Video from the WHO on SMC delivery and the updated guidelines**
+
+{{< video https://www.youtube.com/watch?v=nFF40Tbpjn4&ab_channel=WorldHealthOrganization%28WHO%29>}}
+
+**Video from Malaria Consortium on the future of SMC and it's delivery in new geographies following the WHO updated guidelines**
+
+{{< video https://www.youtube.com/watch?v=44M4uJhwxuM&ab_channel=MalariaConsortium>}}
+
+## Perennial Malaria Chemoprevention 
+
+In settings of moderate to high malaria transmission, countries may consider giving full treatment courses of antimalarials to children at highest risk of severe malaria at selected intervals, a strategy known as perennial malaria chemoprevention (PMC), and formerly known as intermittent preventive treatment of malaria in infants (IPTi). The drug sulfadoxine-pyrimethamine (SP) has been widely used for chemoprevention, including for PMC, although other drugs may be used. PMC is typically delivered during the first one to two years of life primarily during routine vaccination visits delivered through the Expanded Program on Immunization (EPI) platform. Several countries are implementing pilots of PMC to test additional delivery mechanisms outside the EPI platform, such as community delivery, and to understand the effectiveness of SP for PMC in settings with high SP resistance.
+
+**Video from the WHO on PMC guidelines**
+
+{{< video https://www.youtube.com/watch?v=Lqi4D-RKjhQ&ab_channel=WorldHealthOrganization%28WHO%29>}}

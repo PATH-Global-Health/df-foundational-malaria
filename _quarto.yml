@@ -31,6 +31,12 @@ book:
   chapters: 
     - topic5a-nets.qmd
     - topic5b-irs.qmd
+    - topic5c-chemoprevention.qmd 
+    - topic5d-vaccines.qmd
+    - topic5e-ccm.qmd
+    - topic5e-other.qmd
+    
+
 
 
     

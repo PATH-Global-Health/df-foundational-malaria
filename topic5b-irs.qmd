@@ -1,0 +1,37 @@
+---
+title: "Indoor Residual Spraying"
+---
+
+**Indoor Residual Spraying (IRS)** is a malaria prevention method that targets indoor resting mosquitoes. IRS involves coating interior walls and other sprayable surfaces in a house with a residual (long-lasting) insecticide. IRS takes advantage of the indoor resting behavior of many malaria mosquitoes that rest on these surfaces inside houses after taking a blood meal. The insecticide will kill mosquitoes and other insects that come in contact with these treated surfaces for several months. IRS does not directly prevent people from being bitten by mosquitoes. However, IRS usually kills adult mosquitoes after they have fed on blood and rest on a treated surface, which shortens the mosquito's lifespan and prevents the development and subsequent transmission of malaria parasites to other people. A very high proportion of households in an area, ideally over 80%, must be treated to protect a community.
+
+**How IRS Works:**
+
+-   IRS works by coating walls with **long-lasting insecticides**. Mosquitoes that come into contact with the sprayed surfaces are killed.
+
+-   IRS is particularly effective against **endophilic mosquitoes** (species that rest indoors).
+
+**When and Where to Use IRS:**
+
+-   IRS is deployed in **high-transmission areas** and during malaria outbreaks.
+
+-   It is often used **seasonally**, just before the rainy season when mosquito populations increase.
+
+**Impact on Malaria Control:**
+
+-   IRS has been instrumental in **eliminating malaria** in several regions, including parts of **Southern Africa**.
+
+-   It works best when **at least 85% of homes** in a targeted area are sprayed.
+
+**Challenges and Innovations:**
+
+-   **Insecticide resistance** limits the effectiveness of IRS.
+
+-   Programs are exploring **non-pyrethroid insecticides** such as **organophosphates** and **neonicotinoids**.
+
+-   **Community acceptance** can be a barrier, as people may be reluctant to allow spraying in their homes.
+
+-   **Changing of the built home environment**, behaviours such as building work on residences can also impact the effectiveness of IRS.
+
+**See the video below for an informative explanation of IRS from the WHO**
+
+{{< video https://www.youtube.com/watch?v=uTNoT2gSLz0&ab_channel=WorldHealthOrganization%28WHO%29 >}}

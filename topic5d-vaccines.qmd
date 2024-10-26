@@ -1,0 +1,57 @@
+---
+title: "Vaccines"
+---
+
+Malaria vaccines have been in development since the 1960's, with substantial progress in the last decade. October 6, 2021, marked a historic day in the development of malaria vaccines, with release of the World Health Organization (WHO) recommendation for widespread use of the RTS,S/AS01 (RTS,S) malaria vaccine among children living in sub-Saharan Africa and other regions with moderate to high *P. falciparum* malaria transmission. Two years later, the WHO approved a second malaria vaccine (R21/Matrix-M) for use in malaria endemic countries.
+
+## Barriers to developing a malaria vaccine
+
+The development of a malaria vaccine has faced several obstacles: the lack of a traditional market, few developers, and the technical complexity of developing any vaccine against a parasite.
+
+Malaria parasites have a complex life cycle, and there is poor understanding of the complex immune response to malaria infection. Malaria parasites are also genetically complex, producing thousands of potential antigens. Unlike the diseases for which we currently have effective vaccines, exposure to malaria parasites does not confer lifelong protection. Acquired immunity only partially protects against future disease, and in many cases, people still become infected with the parasite; malaria infection can persist for months without symptoms of disease.
+
+## RTS,S/AS01 vaccine
+
+More than a dozen vaccine candidates are now in clinical development, with two approved for use in children under five years of age living in areas of e moderate to high malaria transmission. GlaxoSmithKline Biologicals' RTS,S/AS01 became the first malaria vaccine to receive a WHO recommendation for widespread use on October 6, 2021.
+
+The vaccine has been in development since the mid-1980s and has advanced thanks to a unique public-private partnership of GSKBio, the PATH Malaria Vaccine Initiative, and African and other research organizations, with funding support from the Bill and Melinda Gates Foundation. Following the pivotal Phase 3 trial in 11 sites from 7 countries showing that the vaccine was efficacious, in 2015 a large-scale pilot implementation accompanied by rigorous evaluation provided the conclusive evidence on feasibility, safety, and population impact that led to the WHO recommendation. Key findings from the malaria vaccine pilots include:
+
+-   **Feasible to deliver:** Vaccine introduction is feasible, with good and equitable coverage of RTS,S seen through routine immunization systems, even in the context of the COVID-19 pandemic.
+
+-   **Reaching the unreached:** RTS,S increased equity in access to malaria prevention.
+
+    -   More than two-thirds of children in the three pilot countries who were not sleeping under an ITN benefitted from the RTS,S vaccine.
+
+    -   Layering the tools results in over 90% of children benefitting from at least one preventive intervention (ITN or the malaria vaccine).
+
+-   **Strong** **safety profile:** RTS,S vaccine has a favorable safety profile. By the time of pilot completion in 2023, \>6 million doses of the vaccine have been administered with \>2.5 million children receiving at least one dose of the vaccine in three African countries, with no new safety signals identified.
+
+-   **No** **negative impact on uptake of bed nets, other childhood vaccinations, or health seeking behavior for febrile illness.** In areas where the vaccine has been introduced, there has been no decrease in the use of insecticide-treated nets, uptake of other childhood vaccinations or health seeking behavior for febrile illness.
+
+-   **High impact in real-life childhood vaccination settings:** In addition to the 39% reduction in clinical malaria seen in the Phase 3 trial, the pilot found significant reduction (30%) in severe malaria and 13% reduction in all-cause mortality in children, even when introduced in areas where insecticide-treated nets are widely used and there is good access to diagnosis and treatment.
+
+-   **Highly cost-effective:** Modelling estimates that the vaccine is cost effective in areas of moderate to high malaria transmission.
+
+Following the WHO recommendation of RTS,S for widespread use in moderate to high transmission settings, next steps included funding decisions from the global health community for broader rollout, and country decision-making on whether to adopt the vaccine as part of national malaria control strategies. Shortly after WHO recommendation, GAVI committed funding to support vaccine introduction and established the application process. The immediate unprecedented demand for the vaccine exceeded the available limited RTS,S supply, leading to development of the transparent, fair, and equitable vaccine allocation framework by WHO and GAVI.
+
+WHO's timely recommendation of the second-in-class RTS,S-like vaccine (R21/Matrix-M) in 2023 is expected to result in sufficient vaccine supply to benefit all children living in malaria-endemic areas.
+
+## R21/Matrix-M Vaccine
+
+The R21/Matrix-M malaria vaccine, developed by the University of Oxford and manufactured and scaled up by the Serum Institute of India (SII), is only the second vaccine the world has seen against malaria. The vaccine also contains Novavax's Matrix-M, an "adjuvant" which boosts the immune system response to make it more powerful and long-lasting. This technology -- that was used in Novavax's COVID-19 vaccine -- induces the influx of antigen-presenting cells at the injection site and enhances antigen presentation in local lymph nodes, which means that the immune system is triggered as strongly as possible. In a phase 3 trial, the vaccine was 75% effective when given before the high transmission season, and 68% effective when given on an age-based schedule in areas with year-round malaria
+
+However, the idea is not to replace RTS,S but to be complementary -- Gndefinedavi has already approved funding for a malaria vaccine programme and is ready to support rollout of R21 alongside RTS,S.
+
+{{< video https://www.youtube.com/watch?v=L4JU3mH_a0M&t=5929s&ab_channel=IfakaraHealthInstitute%28IFAKARA%29>}}
+
+## Malaria vaccines: the way forward
+
+A number of other malaria vaccine candidates are in development or trial phases, including transmission-blocking vaccines that target the sexual stage of parasite development in the mosquito and mRNA vaccines against malaria. The world's leading global health organizations have developed the Malaria Vaccine Technology Roadmap for accelerating development of a highly effective malaria vaccine.
+
+The roadmap includes the following strategic goals for malaria vaccines by 2030:
+
+-   Develop and license malaria vaccines with protective efficacy of at least 75% against clinical malaria for areas with ongoing malaria transmission.
+
+-   Develop malaria vaccines that reduce transmission and human malaria infection, enabling elimination in multiple settings through mass vaccination campaigns.
+
+{{< video https://www.youtube.com/watch?v=Nntfiz3Grv4&ab_channel=IfakaraHealthInstitute%28IFAKARA%29>}}
