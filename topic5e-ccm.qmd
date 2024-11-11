@@ -27,3 +27,15 @@ Community engagement is essential to malaria prevention and treatment efforts. *
     -   CHWs often face **training and resource gaps**, which limit their ability to provide consistent care.
 
     -   **Sustained funding** is necessary to maintain community-based programs.
+
+::: callout-tip
+## Stop and Read 
+
+Here are some interesting reads on some of PATHs work in the CCM space with a focus on Zambia:
+
+-   [Reaching the unreached: ending malaria through health care for all](Reaching the unreached: ending malaria through health care for all)
+
+-   [Community health workers: The backbone of malaria elimination](https://www.path.org/our-impact/articles/community-health-workers-malaria-elimination/)
+
+-   [Effectiveness of community case management of malaria on severe malaria and inpatient malaria deaths in Zambia: a dose--response study using routine health information system data](https://pmc.ncbi.nlm.nih.gov/articles/PMC10022244/)
+:::
