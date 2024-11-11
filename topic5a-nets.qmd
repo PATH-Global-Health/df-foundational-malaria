@@ -22,10 +22,10 @@ title: "Insecticide Treated Nets"
 
 -   ITNs are most effective when **at least 80% of the population** in a given area uses them regularly.
 
-::: Net Impact
+::: callout-tip
+## Stop and Read
 
 A 2015 [paper](10.1038/nature15535) estimated that almost 68% of the reduction in malaria burden between 2000-2015 can be attributed to the widespread adoption of ITNs.
-
 :::
 
 **Challenges and Limitations:**
