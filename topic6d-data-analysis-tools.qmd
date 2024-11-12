@@ -1,0 +1,61 @@
+---
+title: "Data Analysis Techniques"
+---
+
+Once malaria data is collected, it must be carefully analyzed to draw meaningful insights that can guide intervention strategies and program decisions. This section just briefly introduces core techniques for analyzing routine malaria data, including descriptive and spatial analysis, trend forecasting, and quality checks. Each technique provides a unique lens for interpreting surveillance data and making data-driven decisions to improve malaria control efforts.
+
+## **Descriptive Analysis**
+
+Descriptive analysis is the first step in exploring malaria data, providing basic statistics that summarize key metrics like case counts, incidence rates, and prevalence. Descriptive analysis offers a clear picture of the current malaria burden and trends across various locations and timeframes.
+
+-   **Calculating Basic Metrics**:
+
+    -   **Incidence Rate**: The number of new malaria cases per 1,000 population over a specified period. Incidence rates help identify high-burden areas and changes in disease transmission.
+
+    -   **Test Positivity Rate (TPR)**: The percentage of individuals tested who are confirmed positive for malaria. High TPR can indicate areas with high transmission or low testing coverage.
+
+    -   **Mortality Rate**: The number of malaria-related deaths per 1,000 population, often segmented by age group, to identify vulnerable populations.
+
+-   **Stratifying Data by Age, Gender, and Geography**:
+
+    -   Stratified analysis helps identify specific groups at higher risk of malaria, which can inform targeted interventions.
+
+-   **Time Series Analysis**:
+
+    -   By examining changes in these metrics over time (e.g., monthly or yearly trends), descriptive analysis can reveal seasonal patterns, the effectiveness of interventions, or emerging outbreaks.
+
+## **Spatial Analysis**
+
+Spatial analysis is essential for understanding malaria transmission in different geographic areas. Geographic Information Systems (GIS) allow users to visualize malaria data on maps, helping programs identify high-risk zones, track intervention coverage, and allocate resources effectively.
+
+-   **Mapping Incidence and Prevalence**:
+
+    -   Visualizing malaria incidence and prevalence on a map highlights hotspots---areas with high malaria burden. This can guide intervention placement, such as targeting indoor residual spraying (IRS) in high-incidence areas.
+
+-   **Overlaying Environmental Data**:
+
+    -   Spatial analysis can incorporate environmental factors like rainfall, vegetation, and altitude, which influence mosquito populations and malaria transmission. This allows programs to predict high-risk areas based on environmental conditions.
+
+## **Data Quality Checks**
+
+Reliable malaria data is critical for effective analysis and decision-making. Data quality checks assess the completeness, accuracy, and timeliness of data to ensure that it accurately reflects the malaria burden.
+
+-   **Completeness Check**:
+
+    -   A completeness check ensures all required data points are collected and reported. Missing data, particularly from high-burden areas, can skew results and lead to incorrect conclusions.
+
+-   **Consistency Check**:
+
+    -   Consistency checks identify discrepancies within the dataset. For example, if a dataset shows sudden drops or spikes in cases without a clear cause, it might indicate data entry errors.
+
+-   **Timeliness Assessment**:
+
+    -   Surveillance data must be timely for effective response planning. Delays in data reporting can hinder outbreak detection and slow resource allocation to high-need areas.
+
+-   **Data Validation**:
+
+    -   Comparing reported data to external sources, such as survey results or independent audits, can help validate the accuracy of routine health facility data.
+
+For an excellent introduction to a new tool called [MagicGlasses2](https://github.com/jpainter/MagicGlasses2) which aims to help users investigate and correct for data quality issues when using DHIS2 malaria data.
+
+{{< video https://www.youtube.com/watch?v=65GKAC64qIg&ab_channel=BAOSystems >}}

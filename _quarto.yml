@@ -40,6 +40,7 @@ book:
         - topic6a-intro-to-surveillance.qmd
         - topic6b-data-collection-methods.qmd
         - topic6c-dhis2-refresher.qmd
+        - topic6d-data-analysis-tools.qmd
 
 
 
