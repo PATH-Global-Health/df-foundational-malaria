@@ -39,6 +39,7 @@ book:
       chapters: 
         - topic6a-intro-to-surveillance.qmd
         - topic6b-data-collection-methods.qmd
+        - topic6c-dhis2-refresher.qmd
 
 
 

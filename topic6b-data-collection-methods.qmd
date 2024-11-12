@@ -4,7 +4,7 @@ title: "Data Collection Methods"
 
 Accurate data collection is essential for understanding malaria trends and responding effectively. Different data collection methods are used in malaria programs, each serving unique roles in gathering comprehensive information across diverse environments. This section explores the primary methods used to collect malaria data and highlights their strengths, limitations, and applications in malaria control and elimination efforts.
 
-#### **Routine Health Facility Reporting**
+## **Routine Health Facility Reporting**
 
 Routine health facility reporting is a cornerstone of malaria surveillance, providing continuous data on malaria cases and treatments from healthcare facilities. In this system, health providers record cases as patients seek care, testing for malaria when symptoms are present and reporting confirmed cases.
 
@@ -28,7 +28,7 @@ Routine health facility reporting is a cornerstone of malaria surveillance, prov
 
     -   Every year the World Malaria Report brings together all the data reported by countries to WHO, including their routine surveillance data. For countries that do not have adequate surveillance systems, WHO produces estimates of cases and deaths.
 
-#### **Community-Based Surveillance**
+## **Community-Based Surveillance**
 
 Community-based surveillance (CBS) involves engaging community health workers (CHWs) to monitor malaria cases within their communities. CHWs often work in areas with limited healthcare access, extending the reach of malaria programs by identifying cases that might not otherwise be reported.
 
@@ -48,7 +48,7 @@ Community-based surveillance (CBS) involves engaging community health workers (C
 
     -   CBS is particularly valuable in rural and low-transmission settings, where it improves malaria detection and complements facility-based reporting.
 
-#### **Cross-Sectional and Sentinel Surveys**
+## **Cross-Sectional and Sentinel Surveys**
 
 Surveys are used to collect malaria data at specific points in time, providing snapshots of malaria prevalence, treatment coverage, and vector presence. Surveys are typically conducted at regular intervals and can target specific populations, such as children under five.
 
@@ -73,7 +73,7 @@ Surveys are used to collect malaria data at specific points in time, providing s
     -   Surveys are key for evaluating malaria program impacts, tracking changes in prevalence, and assessing intervention coverage. Sentinel surveillance is useful for monitoring drug and insecticide resistance.
 
 ::: callout-tip
-#### DHS and MIS Surveys 
+## DHS and MIS Surveys 
 
 The Demographic and Health Survey (DHS) and the Malaria Indicator Survey (MIS) are both household-based surveys that collect data on malaria. They can be used together to provide a more comprehensive picture of malaria behaviors and the factors that influence them. Both the DHS and MIS are designed to be nationally representative, with sample sizes typically ranging from 5,000 to 30,000 households.
 
@@ -102,7 +102,7 @@ You can explore the results of the surveys through:
 In addition the [DHS YouTube Channel](https://www.youtube.com/dhsprogram) has a tonne of helpful videos that help explain the complexities of using and working with survey data and methodological approaches for analysis - a great starting point for understanding the surveys.
 :::
 
-#### **Other Data Sources**
+## **Other Data Sources**
 
 In addition to the primary methods, other data sources contribute to malaria surveillance by capturing information that impacts malaria transmission and control.
 
@@ -126,7 +126,7 @@ Each data collection method faces unique challenges that can impact the quality 
 
 -   **Timeliness of Data Collection and Reporting**: Delays in data collection and reporting can impact response times and reduce the effectiveness of surveillance activities.
 
-#### **Innovations in Malaria Data Collection**
+## **Innovations in Malaria Data Collection**
 
 Advances in technology are helping address some of these challenges, making data collection more efficient and accurate.
 

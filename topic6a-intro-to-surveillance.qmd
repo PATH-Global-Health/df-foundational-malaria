@@ -4,7 +4,7 @@ title: "Introduction to Malaria Surveillance"
 
 Malaria surveillance is the systematic, continuous collection, analysis, and interpretation of malaria-related data. This data is essential for designing, implementing, and evaluating malaria control and elimination efforts. Effective surveillance allows programs to identify high-risk areas, monitor intervention effectiveness, detect and respond to outbreaks, and ultimately move closer to malaria elimination.
 
-#### **Purpose of Surveillance in Malaria Control**
+## **Purpose of Surveillance in Malaria Control**
 
 Surveillance in malaria programs has several key purposes:
 
@@ -18,7 +18,7 @@ Surveillance in malaria programs has several key purposes:
 
 -   **Guiding Policy and Strategy Development**: Data from surveillance systems provide evidence that informs national and international malaria policy, helping to shape intervention strategies and funding priorities.
 
-#### **Types of Malaria Surveillance Systems**
+## **Types of Malaria Surveillance Systems**
 
 Understanding different types of malaria surveillance systems helps us appreciate how data is gathered in diverse settings. These systems can be broadly categorized into two main types: **passive surveillance** and **active surveillance**.
 
@@ -28,7 +28,7 @@ Understanding different types of malaria surveillance systems helps us appreciat
 
 Other specialized surveillance methods include **sentinel surveillance**, where select health facilities (sentinel sites) provide detailed data on malaria cases and resistance trends, and **event-based surveillance**, where unusual health events that could indicate malaria outbreaks are identified and investigated.
 
-#### **Surveillance Indicators**
+## **Surveillance Indicators**
 
 Malaria surveillance relies on several key indicators that provide a snapshot of disease burden and program performance. Many of these we have touched on in previous chapters and modules and include:
 
@@ -40,7 +40,7 @@ Malaria surveillance relies on several key indicators that provide a snapshot of
 
 -   **Treatment Coverage**: The percentage of confirmed malaria cases that receive appropriate treatment, often stratified by treatment type (e.g., artemisinin-based combination therapy).
 
-#### **Challenges in Malaria Surveillance**
+## **Challenges in Malaria Surveillance**
 
 Malaria surveillance faces several challenges that can impact the accuracy and completeness of data:
 
@@ -52,6 +52,6 @@ Malaria surveillance faces several challenges that can impact the accuracy and c
 
 -   **Data Integration Across Systems**: Malaria data has often been collected through different systems (e.g., health facilities, community-based programs), making it challenging to combine and analyze data effectively across multiple years.
 
-#### **The Role of Surveillance in Malaria Elimination**
+## **The Role of Surveillance in Malaria Elimination**
 
 In areas approaching malaria elimination, surveillance systems need to be especially robust. As malaria cases decline, tracking each case becomes more important to prevent resurgence. In these settings, surveillance shifts from tracking high case volumes to detecting and responding to individual cases. This targeted approach helps prevent malaria from re-establishing itself in previously cleared areas. Elimination-focused surveillance often includes **case investigation** (tracing each case to its source) and **reactive case detection** (screening people who may have come into contact with an infected person).

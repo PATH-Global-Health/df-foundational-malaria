@@ -1,0 +1,53 @@
+---
+title: "A Reminder on DHIS2"
+---
+
+We were first introduced to DHIS2 in the [Foundational Data Skills Module](https://path-global-health.github.io/df_data-skills/dh_dhis2-about.html) - lets just take a brief re-fresh of it here as it has become a staple in malaria surveillance.
+
+The **District Health Information Software 2 (DHIS2)** is an open-source health management information system widely used in malaria-endemic countries. DHIS2 provides a platform for collecting, managing, and analyzing health data, including malaria surveillance data, in real time. Its flexibility and scalability make it a valuable tool for malaria control programs, enabling data-driven decisions at national, regional, and local levels.
+
+::: callout-tip
+## Learning Resources
+
+The DHIS2 [website](https://dhis2.org/) and [YouTube](https://www.youtube.com/@DHIS2org/featured) channel has a tonne of helpful resources in leaning how to navigate and work with DHIS2.
+:::
+
+## Overview of DHIS2
+
+Developed by the University of Oslo, DHIS2 is used in over 70 countries to collect and visualize health data. The software is designed to support various health information needs, allowing users to capture data from multiple sources, such as health facilities, community health workers, and survey results. DHIS2 provides an integrated, centralized platform where data from different health programs can be stored, processed, and analyzed.
+
+-   **Customization**: DHIS2 can be tailored to meet the specific needs of each country's health system. For malaria programs, this means customizing data entry forms, setting up specific indicators, and creating dashboards for malaria incidence, mortality, and intervention coverage.
+
+-   **Accessibility**: As a web-based platform, DHIS2 can be accessed from remote locations, enabling real-time data entry and visualization even in low-resource settings.
+
+-   **Integration with Other Systems**: DHIS2 integrates with other data sources and systems, such as laboratory information systems and community-based data platforms, making it a valuable part of a national health information infrastructure.
+
+## Using DHIS2 for Routine Malaria Surveillance
+
+In many countries, DHIS2 is the primary platform for routine malaria surveillance. Data collected at health facilities is entered into DHIS2 and aggregated at different levels to track malaria trends and inform decision-making.
+
+-   **Daily and Weekly Reporting**: Health facilities and community health workers report malaria cases and treatments daily or weekly in some countries, providing near-real-time surveillance data.
+
+-   **Aggregation and Analysis**: DHIS2 automatically aggregates data across facilities and districts, giving malaria programs an overview of disease burden at regional and national levels. This aggregated data can be analyzed for trends and outbreaks.
+
+-   **Supporting National Malaria Programs**: By centralizing malaria data, DHIS2 allows national programs to monitor progress toward malaria control and elimination goals, evaluate intervention effectiveness, and allocate resources based on real-time data.
+
+## WHO DHIS2 Malaria Modules
+
+Data standards, tools and curricula materials have been developed byt the WHO to support countries to strengthen and monitor national routine surveillance systems and to support use of data for decision-making in all transmission settings. These standards have been developed into malaria modules in DHIS2 for countries using this platform.
+
+{{< video https://www.youtube.com/watch?v=7IGSNr9zSq8&t=3s&ab_channel=WorldHealthOrganization%28WHO%29 >}}
+
+Check out this [information page](https://www.who.int/teams/global-malaria-programme/surveillance/digital-solutions-for-malaria-surveillance) on the WHO website for more information as well as the presentation below!
+
+{{< embed "https://measuremalaria.cpc.unc.edu/wp-content/uploads/2022/02/GMP-DHIS2-Support-Tools.pdf" >}}
+
+## First Hand Experiences of Using DHIS2
+
+Check out the following videos - one from our very own Chris Lungo at PATH - about the use of DHIS2 in malaria surveillance and the importance of high quality surveillance data.
+
+{{< video https://www.youtube.com/watch?v=zFDb893XwKA&ab_channel=DHIS2 >}}
+
+{{< video https://www.youtube.com/watch?v=AiGtagm-m-8&t=805s&ab_channel=DHIS2 >}}
+
+{{< video https://www.youtube.com/watch?v=MDon1OXERw0&ab_channel=DHIS2 >}}

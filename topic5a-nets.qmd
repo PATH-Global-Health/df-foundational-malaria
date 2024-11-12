@@ -40,6 +40,6 @@ A 2015 [paper](10.1038/nature15535) estimated that almost 68% of the reduction i
 
 -   **Mass net distribution campaigns** and regular **monitoring** are essential to maintaining coverage.
 
-**See the video below for an indepth look at ITNs and their use in malaria control.**
+**See the video below for an in-depth look at ITNs and their use in malaria control.**
 
 {{< video https://www.youtube.com/watch?v=Y6fA8ViX8c8&ab_channel=IfakaraHealthInstitute%28IFAKARA%29 >}}

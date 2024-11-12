@@ -2,13 +2,13 @@
 title: "Surveillance and Data Analysis "
 ---
 
-#### **Introduction**
+# **Introduction**
 
 Effective surveillance and data analysis are fundamental to the fight against malaria. These activities provide real-time insights into disease trends, support strategic decisions, and allow programs to respond quickly to changes in malaria transmission patterns. By systematically gathering and analyzing data, health programs can track the impact of interventions, detect outbreaks early, and allocate resources efficiently. This chapter will guide you through the key components of malaria surveillance and the analytical tools used to transform data into actionable knowledge, empowering program staff to make informed, data-driven decisions.
 
 The topics covered here complement those taught in the [Foundational Data Skills](https://path-global-health.github.io/df_data-skills/), [Foundational R](https://path-global-health.github.io/df_foundational_r/) and [Foundational Epidemiology Knowledge](https://path-global-health.github.io/df-foundational-epi-skills/) modules so make sure you have covered these topics first!
 
-#### **Learning Objectives**
+## **Learning Objectives**
 
 By the end of this chapter, you should be able to:
 
