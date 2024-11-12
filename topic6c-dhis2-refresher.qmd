@@ -40,7 +40,7 @@ Data standards, tools and curricula materials have been developed byt the WHO to
 
 Check out this [information page](https://www.who.int/teams/global-malaria-programme/surveillance/digital-solutions-for-malaria-surveillance) on the WHO website for more information as well as the presentation below!
 
-{{< pdf GMP-DHIS2-Support-Tools.pdf width=100% height=800 >}}
+<embed src="GMP-DHIS2-Support-Tools.pdf" width="100%" height="800px" type="application/pdf">
 
 ## First Hand Experiences of Using DHIS2
 
