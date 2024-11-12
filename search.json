@@ -705,7 +705,7 @@
     "href": "topic5a-nets.html",
     "title": "15  Insecticide Treated Nets",
     "section": "",
-    "text": "Insecticide-Treated Nets (ITNs) are one of the most effective and widely used tools in malaria prevention. By protecting individuals from mosquito bites at night—the peak biting time for Anopheles mosquitoes—ITNs reduce both infections and overall transmission.\nTypes of ITNs:\n\nConventional ITNs: Treated with insecticides that remain effective for several washes.\nLong-Lasting Insecticidal Nets (LLINs): These retain their effectiveness for at several years and multiple washes without re-treatment.\n\nHow ITNs Work:\n\nITNs act as both a physical barrier and a chemical deterrent.\nWhen mosquitoes come into contact with the net, they are either repelled or killed by the insecticide.\n\nImpact of ITNs on Malaria Transmission:\n\nStudies show that widespread ITN use can reduce child mortality by 20% and malaria incidence by 50%.\nITNs are most effective when at least 80% of the population in a given area uses them regularly.\n\n\n\n\n\n\n\nStop and Read\n\n\n\nA 2015 paper estimated that almost 68% of the reduction in malaria burden between 2000-2015 can be attributed to the widespread adoption of ITNs.\n\n\nChallenges and Limitations:\n\nInsecticide resistance: Some mosquito populations have become resistant to pyrethroids, the main insecticide used in ITNs.\nNet distribution and usage gaps: Not all households receive enough nets, people don’t always use when in bed, and some may use them for purposes other than malaria prevention.\n\nSolutions and Innovations:\n\nNewer PBO (Piperonyl Butoxide) nets and Dual Active Ingredient (Dual-AI) nets have been developed to counter pyrethroid resistance.\nMass net distribution campaigns and regular monitoring are essential to maintaining coverage.\n\nSee the video below for an indepth look at ITNs and their use in malaria control.",
+    "text": "Insecticide-Treated Nets (ITNs) are one of the most effective and widely used tools in malaria prevention. By protecting individuals from mosquito bites at night—the peak biting time for Anopheles mosquitoes—ITNs reduce both infections and overall transmission.\nTypes of ITNs:\n\nConventional ITNs: Treated with insecticides that remain effective for several washes.\nLong-Lasting Insecticidal Nets (LLINs): These retain their effectiveness for at several years and multiple washes without re-treatment.\n\nHow ITNs Work:\n\nITNs act as both a physical barrier and a chemical deterrent.\nWhen mosquitoes come into contact with the net, they are either repelled or killed by the insecticide.\n\nImpact of ITNs on Malaria Transmission:\n\nStudies show that widespread ITN use can reduce child mortality by 20% and malaria incidence by 50%.\nITNs are most effective when at least 80% of the population in a given area uses them regularly.\n\n\n\n\n\n\n\nStop and Read\n\n\n\nA 2015 paper estimated that almost 68% of the reduction in malaria burden between 2000-2015 can be attributed to the widespread adoption of ITNs.\n\n\nChallenges and Limitations:\n\nInsecticide resistance: Some mosquito populations have become resistant to pyrethroids, the main insecticide used in ITNs.\nNet distribution and usage gaps: Not all households receive enough nets, people don’t always use when in bed, and some may use them for purposes other than malaria prevention.\n\nSolutions and Innovations:\n\nNewer PBO (Piperonyl Butoxide) nets and Dual Active Ingredient (Dual-AI) nets have been developed to counter pyrethroid resistance.\nMass net distribution campaigns and regular monitoring are essential to maintaining coverage.\n\nSee the video below for an in-depth look at ITNs and their use in malaria control.",
     "crumbs": [
       "Prevention and Control",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Insecticide Treated Nets</span>"
@@ -815,7 +815,29 @@
     "href": "topic5e-other.html",
     "title": "20  Useful Resources on Malaria Control Interventions and New Approaches",
     "section": "",
-    "text": "Gene Drive for Malaria Elimination\n\n\nVector Control\n\n\nSustaining Gains in Malaria Reductions with Interventions",
+    "text": "20.1 Gene Drive for Malaria Elimination",
+    "crumbs": [
+      "Prevention and Control",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Useful Resources on Malaria Control Interventions and New Approaches</span>"
+    ]
+  },
+  {
+    "objectID": "topic5e-other.html#vector-control",
+    "href": "topic5e-other.html#vector-control",
+    "title": "20  Useful Resources on Malaria Control Interventions and New Approaches",
+    "section": "20.2 Vector Control",
+    "text": "20.2 Vector Control",
+    "crumbs": [
+      "Prevention and Control",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Useful Resources on Malaria Control Interventions and New Approaches</span>"
+    ]
+  },
+  {
+    "objectID": "topic5e-other.html#sustaining-gains-in-malaria-reductions-with-interventions",
+    "href": "topic5e-other.html#sustaining-gains-in-malaria-reductions-with-interventions",
+    "title": "20  Useful Resources on Malaria Control Interventions and New Approaches",
+    "section": "20.3 Sustaining Gains in Malaria Reductions with Interventions",
+    "text": "20.3 Sustaining Gains in Malaria Reductions with Interventions",
     "crumbs": [
       "Prevention and Control",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Useful Resources on Malaria Control Interventions and New Approaches</span>"
@@ -826,7 +848,62 @@
     "href": "topic6a-intro-to-surveillance.html",
     "title": "21  Introduction to Malaria Surveillance",
     "section": "",
-    "text": "Malaria surveillance is the systematic, continuous collection, analysis, and interpretation of malaria-related data. This data is essential for designing, implementing, and evaluating malaria control and elimination efforts. Effective surveillance allows programs to identify high-risk areas, monitor intervention effectiveness, detect and respond to outbreaks, and ultimately move closer to malaria elimination.\n\n21.0.0.1 Purpose of Surveillance in Malaria Control\nSurveillance in malaria programs has several key purposes:\n\nMonitoring Disease Trends: Surveillance helps track malaria cases over time, providing a clear picture of whether malaria incidence is increasing, stable, or decreasing. By observing trends, program managers can assess the overall effectiveness of interventions.\nDetecting Outbreaks Early: In areas with low transmission, sudden increases in cases can signal an outbreak. Early detection through robust surveillance allows for rapid response, limiting the spread and impact of outbreaks.\nEvaluating Intervention Impact: Surveillance data can reveal how well interventions—like insecticide-treated nets (ITNs), indoor residual spraying (IRS), and seasonal malaria chemoprevention (SMC)—are working by comparing malaria cases before and after intervention implementation in the same population or in neighboring areas or age groups for example.\nSupporting Resource Allocation: Surveillance data help program planners allocate resources efficiently, ensuring that interventions reach high-burden or high-risk areas that need them most.\nGuiding Policy and Strategy Development: Data from surveillance systems provide evidence that informs national and international malaria policy, helping to shape intervention strategies and funding priorities.\n\n\n\n21.0.0.2 Types of Malaria Surveillance Systems\nUnderstanding different types of malaria surveillance systems helps us appreciate how data is gathered in diverse settings. These systems can be broadly categorized into two main types: passive surveillance and active surveillance.\n\nPassive Surveillance: In passive surveillance, data is collected as patients seek care at health facilities. When individuals with suspected malaria present themselves for treatment, healthcare providers test for malaria and report confirmed cases. This type of surveillance is cost-effective but may under report cases in remote areas or populations with limited access to healthcare.\nActive Surveillance: Active surveillance involves actively seeking out cases, typically through field visits and surveys. For example, healthcare workers may visit households in high-risk areas to identify individuals with malaria symptoms and test them. Active surveillance is particularly valuable in low-transmission areas, where passive surveillance may miss cases, but it is more resource-intensive.\n\nOther specialized surveillance methods include sentinel surveillance, where select health facilities (sentinel sites) provide detailed data on malaria cases and resistance trends, and event-based surveillance, where unusual health events that could indicate malaria outbreaks are identified and investigated.\n\n\n21.0.0.3 Surveillance Indicators\nMalaria surveillance relies on several key indicators that provide a snapshot of disease burden and program performance. Many of these we have touched on in previous chapters and modules and include:\n\nMalaria Incidence Rate: The number of new malaria cases per population in a specified period.\nMalaria Test Positivity Rate (TPR): The proportion of individuals tested for malaria who are confirmed positive.\nMalaria Mortality Rate: The number of malaria-related deaths per population, often broken down by age group.\nTreatment Coverage: The percentage of confirmed malaria cases that receive appropriate treatment, often stratified by treatment type (e.g., artemisinin-based combination therapy).\n\n\n\n21.0.0.4 Challenges in Malaria Surveillance\nMalaria surveillance faces several challenges that can impact the accuracy and completeness of data:\n\nIncomplete Reporting: Health facilities may not consistently report cases, especially in remote or resource-limited areas.\nData Quality Issues: Poor data quality, including errors in case recording and delayed reporting, can hinder the effectiveness of malaria surveillance.\nLimited Access in Remote Areas: Some populations, particularly those in rural or conflict-affected regions, may have limited access to healthcare, resulting in underreporting of cases.\nData Integration Across Systems: Malaria data has often been collected through different systems (e.g., health facilities, community-based programs), making it challenging to combine and analyze data effectively across multiple years.\n\n\n\n21.0.0.5 The Role of Surveillance in Malaria Elimination\nIn areas approaching malaria elimination, surveillance systems need to be especially robust. As malaria cases decline, tracking each case becomes more important to prevent resurgence. In these settings, surveillance shifts from tracking high case volumes to detecting and responding to individual cases. This targeted approach helps prevent malaria from re-establishing itself in previously cleared areas. Elimination-focused surveillance often includes case investigation (tracing each case to its source) and reactive case detection (screening people who may have come into contact with an infected person).",
+    "text": "21.1 Purpose of Surveillance in Malaria Control\nSurveillance in malaria programs has several key purposes:",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "topic6a-intro-to-surveillance.html#purpose-of-surveillance-in-malaria-control",
+    "href": "topic6a-intro-to-surveillance.html#purpose-of-surveillance-in-malaria-control",
+    "title": "21  Introduction to Malaria Surveillance",
+    "section": "",
+    "text": "Monitoring Disease Trends: Surveillance helps track malaria cases over time, providing a clear picture of whether malaria incidence is increasing, stable, or decreasing. By observing trends, program managers can assess the overall effectiveness of interventions.\nDetecting Outbreaks Early: In areas with low transmission, sudden increases in cases can signal an outbreak. Early detection through robust surveillance allows for rapid response, limiting the spread and impact of outbreaks.\nEvaluating Intervention Impact: Surveillance data can reveal how well interventions—like insecticide-treated nets (ITNs), indoor residual spraying (IRS), and seasonal malaria chemoprevention (SMC)—are working by comparing malaria cases before and after intervention implementation in the same population or in neighboring areas or age groups for example.\nSupporting Resource Allocation: Surveillance data help program planners allocate resources efficiently, ensuring that interventions reach high-burden or high-risk areas that need them most.\nGuiding Policy and Strategy Development: Data from surveillance systems provide evidence that informs national and international malaria policy, helping to shape intervention strategies and funding priorities.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "topic6a-intro-to-surveillance.html#types-of-malaria-surveillance-systems",
+    "href": "topic6a-intro-to-surveillance.html#types-of-malaria-surveillance-systems",
+    "title": "21  Introduction to Malaria Surveillance",
+    "section": "21.2 Types of Malaria Surveillance Systems",
+    "text": "21.2 Types of Malaria Surveillance Systems\nUnderstanding different types of malaria surveillance systems helps us appreciate how data is gathered in diverse settings. These systems can be broadly categorized into two main types: passive surveillance and active surveillance.\n\nPassive Surveillance: In passive surveillance, data is collected as patients seek care at health facilities. When individuals with suspected malaria present themselves for treatment, healthcare providers test for malaria and report confirmed cases. This type of surveillance is cost-effective but may under report cases in remote areas or populations with limited access to healthcare.\nActive Surveillance: Active surveillance involves actively seeking out cases, typically through field visits and surveys. For example, healthcare workers may visit households in high-risk areas to identify individuals with malaria symptoms and test them. Active surveillance is particularly valuable in low-transmission areas, where passive surveillance may miss cases, but it is more resource-intensive.\n\nOther specialized surveillance methods include sentinel surveillance, where select health facilities (sentinel sites) provide detailed data on malaria cases and resistance trends, and event-based surveillance, where unusual health events that could indicate malaria outbreaks are identified and investigated.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "topic6a-intro-to-surveillance.html#surveillance-indicators",
+    "href": "topic6a-intro-to-surveillance.html#surveillance-indicators",
+    "title": "21  Introduction to Malaria Surveillance",
+    "section": "21.3 Surveillance Indicators",
+    "text": "21.3 Surveillance Indicators\nMalaria surveillance relies on several key indicators that provide a snapshot of disease burden and program performance. Many of these we have touched on in previous chapters and modules and include:\n\nMalaria Incidence Rate: The number of new malaria cases per population in a specified period.\nMalaria Test Positivity Rate (TPR): The proportion of individuals tested for malaria who are confirmed positive.\nMalaria Mortality Rate: The number of malaria-related deaths per population, often broken down by age group.\nTreatment Coverage: The percentage of confirmed malaria cases that receive appropriate treatment, often stratified by treatment type (e.g., artemisinin-based combination therapy).",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "topic6a-intro-to-surveillance.html#challenges-in-malaria-surveillance",
+    "href": "topic6a-intro-to-surveillance.html#challenges-in-malaria-surveillance",
+    "title": "21  Introduction to Malaria Surveillance",
+    "section": "21.4 Challenges in Malaria Surveillance",
+    "text": "21.4 Challenges in Malaria Surveillance\nMalaria surveillance faces several challenges that can impact the accuracy and completeness of data:\n\nIncomplete Reporting: Health facilities may not consistently report cases, especially in remote or resource-limited areas.\nData Quality Issues: Poor data quality, including errors in case recording and delayed reporting, can hinder the effectiveness of malaria surveillance.\nLimited Access in Remote Areas: Some populations, particularly those in rural or conflict-affected regions, may have limited access to healthcare, resulting in underreporting of cases.\nData Integration Across Systems: Malaria data has often been collected through different systems (e.g., health facilities, community-based programs), making it challenging to combine and analyze data effectively across multiple years.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "topic6a-intro-to-surveillance.html#the-role-of-surveillance-in-malaria-elimination",
+    "href": "topic6a-intro-to-surveillance.html#the-role-of-surveillance-in-malaria-elimination",
+    "title": "21  Introduction to Malaria Surveillance",
+    "section": "21.5 The Role of Surveillance in Malaria Elimination",
+    "text": "21.5 The Role of Surveillance in Malaria Elimination\nIn areas approaching malaria elimination, surveillance systems need to be especially robust. As malaria cases decline, tracking each case becomes more important to prevent resurgence. In these settings, surveillance shifts from tracking high case volumes to detecting and responding to individual cases. This targeted approach helps prevent malaria from re-establishing itself in previously cleared areas. Elimination-focused surveillance often includes case investigation (tracing each case to its source) and reactive case detection (screening people who may have come into contact with an infected person).",
     "crumbs": [
       "Surveillance and Data Analysis",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Introduction to Malaria Surveillance</span>"
@@ -837,10 +914,120 @@
     "href": "topic6b-data-collection-methods.html",
     "title": "22  Data Collection Methods",
     "section": "",
-    "text": "Accurate data collection is essential for understanding malaria trends and responding effectively. Different data collection methods are used in malaria programs, each serving unique roles in gathering comprehensive information across diverse environments. This section explores the primary methods used to collect malaria data and highlights their strengths, limitations, and applications in malaria control and elimination efforts.\n\n22.0.0.1 Routine Health Facility Reporting\nRoutine health facility reporting is a cornerstone of malaria surveillance, providing continuous data on malaria cases and treatments from healthcare facilities. In this system, health providers record cases as patients seek care, testing for malaria when symptoms are present and reporting confirmed cases.\n\nStrengths:\n\nCost-Effective: Routine reporting leverages existing healthcare infrastructure, making it one of the most affordable surveillance options.\nLarge Coverage: Health facilities serve large populations, providing a significant volume of data in high-burden areas.\n\nLimitations:\n\nUnderreporting in Low-Access Areas: Populations in remote or underserved areas may not access healthcare, resulting in underreported malaria cases.\nData Quality Issues: In resource-limited settings, errors in data recording and reporting are common due to staff shortages, limited training, or lack of standardized reporting tools.\n\nApplications:\n\nRoutine data is essential for tracking trends in malaria cases and evaluating the effectiveness of interventions. It provides a broad understanding of malaria burden in areas where healthcare access is available, though it may miss cases in harder-to-reach populations.\nRoutine health reporting data is the cornerstone of understanding malaria case trends.\nEvery year the World Malaria Report brings together all the data reported by countries to WHO, including their routine surveillance data. For countries that do not have adequate surveillance systems, WHO produces estimates of cases and deaths.\n\n\n\n\n22.0.0.2 Community-Based Surveillance\nCommunity-based surveillance (CBS) involves engaging community health workers (CHWs) to monitor malaria cases within their communities. CHWs often work in areas with limited healthcare access, extending the reach of malaria programs by identifying cases that might not otherwise be reported.\n\nStrengths:\n\nEnhanced Reach in Remote Areas: CHWs can access remote and underserved populations, improving surveillance coverage.\nEarly Detection of Localized Outbreaks: CHWs live within communities and are often the first to notice changes in malaria incidence, enabling faster response to outbreaks.\n\nLimitations:\n\nResource-Intensive: CBS requires training, supervision, and supplies for CHWs.\nData Consistency: Ensuring consistent data collection can be challenging, especially if CHWs lack standardized reporting tools.\n\nApplications:\n\nCBS is particularly valuable in rural and low-transmission settings, where it improves malaria detection and complements facility-based reporting.\n\n\n\n\n22.0.0.3 Cross-Sectional and Sentinel Surveys\nSurveys are used to collect malaria data at specific points in time, providing snapshots of malaria prevalence, treatment coverage, and vector presence. Surveys are typically conducted at regular intervals and can target specific populations, such as children under five.\n\nCross-Sectional Surveys:\n\nDemographic Health Surveys (DHS) and Malaria Indicator Surveys (MIS) collect data on malaria indicators such as prevalence, treatment coverage, and bed net ownership.\nAdvantages: These surveys provide detailed data across large populations and are valuable for evaluating program impacts over time.\nLimitations: Cross-sectional surveys are expensive and labor-intensive, so they are usually conducted every few years rather than continuously.\n\nSentinel Surveillance:\n\nSentinel surveillance uses select health facilities (sentinel sites) to monitor malaria trends more frequently. These sites are often strategically located to represent various malaria transmission settings.\nAdvantages: Sentinel sites provide high-quality data at regular intervals, which is useful for tracking changes in transmission patterns or drug resistance.\nLimitations: Sentinel data is limited to specific locations and may not represent the entire country or region.\n\nApplications:\n\nSurveys are key for evaluating malaria program impacts, tracking changes in prevalence, and assessing intervention coverage. Sentinel surveillance is useful for monitoring drug and insecticide resistance.\n\n\n\n\n\n\n\n\nDHS and MIS Surveys\n\n\n\nThe Demographic and Health Survey (DHS) and the Malaria Indicator Survey (MIS) are both household-based surveys that collect data on malaria. They can be used together to provide a more comprehensive picture of malaria behaviors and the factors that influence them. Both the DHS and MIS are designed to be nationally representative, with sample sizes typically ranging from 5,000 to 30,000 households.\nThese are complex surveys but their data is freely available to use for analysis.\nYou can explore the results of the surveys through:\n\nThe written reports produced from each survey at a country level - the reports will provide a comprehensive overview of the results and the methods of that years specific survey.\nStatCompiler- a tool that allows users to create custom tables, charts, and maps using demographic and health data from over 90 countries. The tool is designed to help users compare data across countries and over time. For tutorials on how to use StatCompiler see the DHS Website.\nThe rdhs package is a free R package that helps users analyze data from the Demographic and Health Survey (DHS). This includes functionality to:\n\nAccess standard indicator data (i.e. DHS STATcompiler) in R via the DHS API.\nIdentify surveys and datasets relevant to a particular analysis.\nDownload survey datasets from the DHS website.\nLoad datasets and associated metadata into R.\nExtract variables and combining datasets for pooled multi-survey analyses.\n\nThe Guide to DHS Statistics - this guide has two main purposes: To explain how statistics produced in Demographic and Health Surveys (DHS) reports are defined and calculated and serve as a reference document for researchers. To provide an overview of the structure and use of DHS datasets. It is a good place to start for understanding indicators.\n\nIn addition the DHS YouTube Channel has a tonne of helpful videos that help explain the complexities of using and working with survey data and methodological approaches for analysis - a great starting point for understanding the surveys.\n\n\n\n\n22.0.0.4 Other Data Sources\nIn addition to the primary methods, other data sources contribute to malaria surveillance by capturing information that impacts malaria transmission and control.\n\nLaboratory Data: Laboratories provide data on confirmed malaria cases and drug resistance, often used to monitor trends in diagnostic testing and resistance.\nTravel Histories: Data on travel histories help identify cases of imported malaria, which is important in low-transmission areas nearing elimination.\nWeather and Environmental Data: Weather conditions, such as rainfall and temperature, impact mosquito breeding and malaria transmission. Integrating meteorological data can improve outbreak prediction and intervention planning.\nEntomological Data: Monitoring mosquito populations, species distribution, and insecticide resistance is essential for understanding transmission dynamics and adjusting vector control strategies.\n\n\n\n22.0.0.5 Data Collection Challenges\nEach data collection method faces unique challenges that can impact the quality and utility of malaria surveillance data.\n\nLimited Access and Coverage: In many regions, particularly rural and conflict-affected areas, data collection is hindered by limited healthcare access, security issues, or geographical barriers.\nResource Constraints: Surveillance systems require resources for training, supervision, transportation, and supplies. Resource constraints can limit data collection efforts.\nData Standardization and Consistency: Different data sources and reporting systems may use varied formats, creating challenges in merging and analyzing data consistently. In addition variables and indicators can change in their definition or reporting structure over time making consistent analysis difficult.\nTimeliness of Data Collection and Reporting: Delays in data collection and reporting can impact response times and reduce the effectiveness of surveillance activities.\n\n\n\n22.0.0.6 Innovations in Malaria Data Collection\nAdvances in technology are helping address some of these challenges, making data collection more efficient and accurate.\n\nMobile Health (mHealth) Technologies: mHealth applications enable CHWs to report cases in real-time, improving the timeliness and accuracy of community-based surveillance.\nDigital Health Records: Electronic health records improve data quality and accessibility, making it easier to track patient histories and treatment outcomes.\nRemote Sensing and GIS: Remote sensing tools, such as satellite imagery, provide environmental data that support malaria mapping and prediction models.",
+    "text": "22.1 Routine Health Facility Reporting\nRoutine health facility reporting is a cornerstone of malaria surveillance, providing continuous data on malaria cases and treatments from healthcare facilities. In this system, health providers record cases as patients seek care, testing for malaria when symptoms are present and reporting confirmed cases.",
     "crumbs": [
       "Surveillance and Data Analysis",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6b-data-collection-methods.html#routine-health-facility-reporting",
+    "href": "topic6b-data-collection-methods.html#routine-health-facility-reporting",
+    "title": "22  Data Collection Methods",
+    "section": "",
+    "text": "Strengths:\n\nCost-Effective: Routine reporting leverages existing healthcare infrastructure, making it one of the most affordable surveillance options.\nLarge Coverage: Health facilities serve large populations, providing a significant volume of data in high-burden areas.\n\nLimitations:\n\nUnderreporting in Low-Access Areas: Populations in remote or underserved areas may not access healthcare, resulting in underreported malaria cases.\nData Quality Issues: In resource-limited settings, errors in data recording and reporting are common due to staff shortages, limited training, or lack of standardized reporting tools.\n\nApplications:\n\nRoutine data is essential for tracking trends in malaria cases and evaluating the effectiveness of interventions. It provides a broad understanding of malaria burden in areas where healthcare access is available, though it may miss cases in harder-to-reach populations.\nRoutine health reporting data is the cornerstone of understanding malaria case trends.\nEvery year the World Malaria Report brings together all the data reported by countries to WHO, including their routine surveillance data. For countries that do not have adequate surveillance systems, WHO produces estimates of cases and deaths.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6b-data-collection-methods.html#community-based-surveillance",
+    "href": "topic6b-data-collection-methods.html#community-based-surveillance",
+    "title": "22  Data Collection Methods",
+    "section": "22.2 Community-Based Surveillance",
+    "text": "22.2 Community-Based Surveillance\nCommunity-based surveillance (CBS) involves engaging community health workers (CHWs) to monitor malaria cases within their communities. CHWs often work in areas with limited healthcare access, extending the reach of malaria programs by identifying cases that might not otherwise be reported.\n\nStrengths:\n\nEnhanced Reach in Remote Areas: CHWs can access remote and underserved populations, improving surveillance coverage.\nEarly Detection of Localized Outbreaks: CHWs live within communities and are often the first to notice changes in malaria incidence, enabling faster response to outbreaks.\n\nLimitations:\n\nResource-Intensive: CBS requires training, supervision, and supplies for CHWs.\nData Consistency: Ensuring consistent data collection can be challenging, especially if CHWs lack standardized reporting tools.\n\nApplications:\n\nCBS is particularly valuable in rural and low-transmission settings, where it improves malaria detection and complements facility-based reporting.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6b-data-collection-methods.html#cross-sectional-and-sentinel-surveys",
+    "href": "topic6b-data-collection-methods.html#cross-sectional-and-sentinel-surveys",
+    "title": "22  Data Collection Methods",
+    "section": "22.3 Cross-Sectional and Sentinel Surveys",
+    "text": "22.3 Cross-Sectional and Sentinel Surveys\nSurveys are used to collect malaria data at specific points in time, providing snapshots of malaria prevalence, treatment coverage, and vector presence. Surveys are typically conducted at regular intervals and can target specific populations, such as children under five.\n\nCross-Sectional Surveys:\n\nDemographic Health Surveys (DHS) and Malaria Indicator Surveys (MIS) collect data on malaria indicators such as prevalence, treatment coverage, and bed net ownership.\nAdvantages: These surveys provide detailed data across large populations and are valuable for evaluating program impacts over time.\nLimitations: Cross-sectional surveys are expensive and labor-intensive, so they are usually conducted every few years rather than continuously.\n\nSentinel Surveillance:\n\nSentinel surveillance uses select health facilities (sentinel sites) to monitor malaria trends more frequently. These sites are often strategically located to represent various malaria transmission settings.\nAdvantages: Sentinel sites provide high-quality data at regular intervals, which is useful for tracking changes in transmission patterns or drug resistance.\nLimitations: Sentinel data is limited to specific locations and may not represent the entire country or region.\n\nApplications:\n\nSurveys are key for evaluating malaria program impacts, tracking changes in prevalence, and assessing intervention coverage. Sentinel surveillance is useful for monitoring drug and insecticide resistance.\n\n\n\n\n\n\n\n\nDHS and MIS Surveys\n\n\n\nThe Demographic and Health Survey (DHS) and the Malaria Indicator Survey (MIS) are both household-based surveys that collect data on malaria. They can be used together to provide a more comprehensive picture of malaria behaviors and the factors that influence them. Both the DHS and MIS are designed to be nationally representative, with sample sizes typically ranging from 5,000 to 30,000 households.\nThese are complex surveys but their data is freely available to use for analysis.\nYou can explore the results of the surveys through:\n\nThe written reports produced from each survey at a country level - the reports will provide a comprehensive overview of the results and the methods of that years specific survey.\nStatCompiler- a tool that allows users to create custom tables, charts, and maps using demographic and health data from over 90 countries. The tool is designed to help users compare data across countries and over time. For tutorials on how to use StatCompiler see the DHS Website.\nThe rdhs package is a free R package that helps users analyze data from the Demographic and Health Survey (DHS). This includes functionality to:\n\nAccess standard indicator data (i.e. DHS STATcompiler) in R via the DHS API.\nIdentify surveys and datasets relevant to a particular analysis.\nDownload survey datasets from the DHS website.\nLoad datasets and associated metadata into R.\nExtract variables and combining datasets for pooled multi-survey analyses.\n\nThe Guide to DHS Statistics - this guide has two main purposes: To explain how statistics produced in Demographic and Health Surveys (DHS) reports are defined and calculated and serve as a reference document for researchers. To provide an overview of the structure and use of DHS datasets. It is a good place to start for understanding indicators.\n\nIn addition the DHS YouTube Channel has a tonne of helpful videos that help explain the complexities of using and working with survey data and methodological approaches for analysis - a great starting point for understanding the surveys.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6b-data-collection-methods.html#other-data-sources",
+    "href": "topic6b-data-collection-methods.html#other-data-sources",
+    "title": "22  Data Collection Methods",
+    "section": "22.4 Other Data Sources",
+    "text": "22.4 Other Data Sources\nIn addition to the primary methods, other data sources contribute to malaria surveillance by capturing information that impacts malaria transmission and control.\n\nLaboratory Data: Laboratories provide data on confirmed malaria cases and drug resistance, often used to monitor trends in diagnostic testing and resistance.\nTravel Histories: Data on travel histories help identify cases of imported malaria, which is important in low-transmission areas nearing elimination.\nWeather and Environmental Data: Weather conditions, such as rainfall and temperature, impact mosquito breeding and malaria transmission. Integrating meteorological data can improve outbreak prediction and intervention planning.\nEntomological Data: Monitoring mosquito populations, species distribution, and insecticide resistance is essential for understanding transmission dynamics and adjusting vector control strategies.\n\n\n22.4.0.1 Data Collection Challenges\nEach data collection method faces unique challenges that can impact the quality and utility of malaria surveillance data.\n\nLimited Access and Coverage: In many regions, particularly rural and conflict-affected areas, data collection is hindered by limited healthcare access, security issues, or geographical barriers.\nResource Constraints: Surveillance systems require resources for training, supervision, transportation, and supplies. Resource constraints can limit data collection efforts.\nData Standardization and Consistency: Different data sources and reporting systems may use varied formats, creating challenges in merging and analyzing data consistently. In addition variables and indicators can change in their definition or reporting structure over time making consistent analysis difficult.\nTimeliness of Data Collection and Reporting: Delays in data collection and reporting can impact response times and reduce the effectiveness of surveillance activities.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6b-data-collection-methods.html#innovations-in-malaria-data-collection",
+    "href": "topic6b-data-collection-methods.html#innovations-in-malaria-data-collection",
+    "title": "22  Data Collection Methods",
+    "section": "22.5 Innovations in Malaria Data Collection",
+    "text": "22.5 Innovations in Malaria Data Collection\nAdvances in technology are helping address some of these challenges, making data collection more efficient and accurate.\n\nMobile Health (mHealth) Technologies: mHealth applications enable CHWs to report cases in real-time, improving the timeliness and accuracy of community-based surveillance.\nDigital Health Records: Electronic health records improve data quality and accessibility, making it easier to track patient histories and treatment outcomes.\nRemote Sensing and GIS: Remote sensing tools, such as satellite imagery, provide environmental data that support malaria mapping and prediction models.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Collection Methods</span>"
+    ]
+  },
+  {
+    "objectID": "topic6c-dhis2-refresher.html",
+    "href": "topic6c-dhis2-refresher.html",
+    "title": "23  A Reminder on DHIS2",
+    "section": "",
+    "text": "23.1 Overview of DHIS2\nDeveloped by the University of Oslo, DHIS2 is used in over 70 countries to collect and visualize health data. The software is designed to support various health information needs, allowing users to capture data from multiple sources, such as health facilities, community health workers, and survey results. DHIS2 provides an integrated, centralized platform where data from different health programs can be stored, processed, and analyzed.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>A Reminder on DHIS2</span>"
+    ]
+  },
+  {
+    "objectID": "topic6c-dhis2-refresher.html#overview-of-dhis2",
+    "href": "topic6c-dhis2-refresher.html#overview-of-dhis2",
+    "title": "23  A Reminder on DHIS2",
+    "section": "",
+    "text": "Customization: DHIS2 can be tailored to meet the specific needs of each country’s health system. For malaria programs, this means customizing data entry forms, setting up specific indicators, and creating dashboards for malaria incidence, mortality, and intervention coverage.\nAccessibility: As a web-based platform, DHIS2 can be accessed from remote locations, enabling real-time data entry and visualization even in low-resource settings.\nIntegration with Other Systems: DHIS2 integrates with other data sources and systems, such as laboratory information systems and community-based data platforms, making it a valuable part of a national health information infrastructure.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>A Reminder on DHIS2</span>"
+    ]
+  },
+  {
+    "objectID": "topic6c-dhis2-refresher.html#using-dhis2-for-routine-malaria-surveillance",
+    "href": "topic6c-dhis2-refresher.html#using-dhis2-for-routine-malaria-surveillance",
+    "title": "23  A Reminder on DHIS2",
+    "section": "23.2 Using DHIS2 for Routine Malaria Surveillance",
+    "text": "23.2 Using DHIS2 for Routine Malaria Surveillance\nIn many countries, DHIS2 is the primary platform for routine malaria surveillance. Data collected at health facilities is entered into DHIS2 and aggregated at different levels to track malaria trends and inform decision-making.\n\nDaily and Weekly Reporting: Health facilities and community health workers report malaria cases and treatments daily or weekly in some countries, providing near-real-time surveillance data.\nAggregation and Analysis: DHIS2 automatically aggregates data across facilities and districts, giving malaria programs an overview of disease burden at regional and national levels. This aggregated data can be analyzed for trends and outbreaks.\nSupporting National Malaria Programs: By centralizing malaria data, DHIS2 allows national programs to monitor progress toward malaria control and elimination goals, evaluate intervention effectiveness, and allocate resources based on real-time data.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>A Reminder on DHIS2</span>"
+    ]
+  },
+  {
+    "objectID": "topic6c-dhis2-refresher.html#who-dhis2-malaria-modules",
+    "href": "topic6c-dhis2-refresher.html#who-dhis2-malaria-modules",
+    "title": "23  A Reminder on DHIS2",
+    "section": "23.3 WHO DHIS2 Malaria Modules",
+    "text": "23.3 WHO DHIS2 Malaria Modules\nData standards, tools and curricula materials have been developed byt the WHO to support countries to strengthen and monitor national routine surveillance systems and to support use of data for decision-making in all transmission settings. These standards have been developed into malaria modules in DHIS2 for countries using this platform.\n\nCheck out this information page on the WHO website for more information as well as the presentation below!",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>A Reminder on DHIS2</span>"
+    ]
+  },
+  {
+    "objectID": "topic6c-dhis2-refresher.html#first-hand-experiences-of-using-dhis2",
+    "href": "topic6c-dhis2-refresher.html#first-hand-experiences-of-using-dhis2",
+    "title": "23  A Reminder on DHIS2",
+    "section": "23.4 First Hand Experiences of Using DHIS2",
+    "text": "23.4 First Hand Experiences of Using DHIS2\nCheck out the following videos - one from our very own Chris Lungo at PATH - about the use of DHIS2 in malaria surveillance and the importance of high quality surveillance data.",
+    "crumbs": [
+      "Surveillance and Data Analysis",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>A Reminder on DHIS2</span>"
     ]
   },
   {
@@ -938,7 +1125,17 @@
     "href": "topic6-intro.html",
     "title": "Surveillance and Data Analysis",
     "section": "",
-    "text": "Introduction\nEffective surveillance and data analysis are fundamental to the fight against malaria. These activities provide real-time insights into disease trends, support strategic decisions, and allow programs to respond quickly to changes in malaria transmission patterns. By systematically gathering and analyzing data, health programs can track the impact of interventions, detect outbreaks early, and allocate resources efficiently. This chapter will guide you through the key components of malaria surveillance and the analytical tools used to transform data into actionable knowledge, empowering program staff to make informed, data-driven decisions.\nThe topics covered here complement those taught in the Foundational Data Skills, Foundational R and Foundational Epidemiology Knowledge modules so make sure you have covered these topics first!\n\n\nLearning Objectives\nBy the end of this chapter, you should be able to:\n\nUnderstand the role of malaria surveillance in monitoring and controlling the disease and recognize different surveillance methods.\nIdentify and describe common data collection methods used in malaria surveillance, including health facility reporting, community-based surveillance, and surveys.\nApply basic data analysis techniques for describing, visualizing, and interpreting malaria data trends and spatial patterns.\nAssess the quality and reliability of surveillance data through quality checks and understand how data limitations can impact decision-making.\nCommunicate and use data effectively to support malaria control strategies, prioritize high-burden areas, and engage stakeholders.",
+    "text": "Introduction\nEffective surveillance and data analysis are fundamental to the fight against malaria. These activities provide real-time insights into disease trends, support strategic decisions, and allow programs to respond quickly to changes in malaria transmission patterns. By systematically gathering and analyzing data, health programs can track the impact of interventions, detect outbreaks early, and allocate resources efficiently. This chapter will guide you through the key components of malaria surveillance and the analytical tools used to transform data into actionable knowledge, empowering program staff to make informed, data-driven decisions.\nThe topics covered here complement those taught in the Foundational Data Skills, Foundational R and Foundational Epidemiology Knowledge modules so make sure you have covered these topics first!",
+    "crumbs": [
+      "Surveillance and Data Analysis"
+    ]
+  },
+  {
+    "objectID": "topic6-intro.html#learning-objectives",
+    "href": "topic6-intro.html#learning-objectives",
+    "title": "Surveillance and Data Analysis",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this chapter, you should be able to:\n\nUnderstand the role of malaria surveillance in monitoring and controlling the disease and recognize different surveillance methods.\nIdentify and describe common data collection methods used in malaria surveillance, including health facility reporting, community-based surveillance, and surveys.\nApply basic data analysis techniques for describing, visualizing, and interpreting malaria data trends and spatial patterns.\nAssess the quality and reliability of surveillance data through quality checks and understand how data limitations can impact decision-making.\nCommunicate and use data effectively to support malaria control strategies, prioritize high-burden areas, and engage stakeholders.",
     "crumbs": [
       "Surveillance and Data Analysis"
     ]
