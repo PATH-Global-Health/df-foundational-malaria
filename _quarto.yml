@@ -38,6 +38,7 @@ book:
     - part: topic6-intro.qmd
       chapters: 
         - topic6a-intro-to-surveillance.qmd
+        - topic6b-data-collection-methods.qmd
 
 
 
