@@ -42,7 +42,7 @@ Check out this [information page](https://www.who.int/teams/global-malaria-progr
 
 <iframe 
 
-src="GMP-DHIS2-SUpport-Tools.pdf" width="800" height="600">
+src="GMP-DHIS2-Support-Tools.pdf" width="800" height="600">
 
 </iframe>
 
