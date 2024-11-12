@@ -35,6 +35,9 @@ book:
         - topic5d-vaccines.qmd
         - topic5e-ccm.qmd
         - topic5e-other.qmd
+            - part: topic6-intro.qmd
+      chapters: 
+        - topic6a-intro-to-surveillance.qmd
 
 
 
